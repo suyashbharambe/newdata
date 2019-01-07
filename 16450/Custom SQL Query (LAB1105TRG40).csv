@@ -1,0 +1,894 @@
+﻿AVGDINNERPRICE,AVGLUNCHPRICE,City,City Id (Dim City),CITY_ID,City Name,DINNERRATING,FACT_ID,HAS_ONLINE_DELIVERY,HAS_TABLE_BOOKING,Hotel Id (Dm Hotel Tgt),HOTEL_ID,Hotel Name,LAT,LONG_FLD,LUNCHRATING,Number of Records,Speciality2 Id (Dm Speciality Tgt1),SPECIALITY2_ID,Speciality 1,Speciality 2,Speciality Id (Dm Speciality Tgt),SPECIALITY_ID,TOTALRATING,VOTES
+2500,2500,Gion Shijo,CT60,CT60,Gion Shijo,3,460,Yes,No,HT310,HT310,Koudaijihashiba  ,35,136,4,1,S101,S101,Kyoto Cuisine,Tempura,SP241,SP241,4,29
+5500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,461,Yes,Yes,HT314,HT314,Kuragarimasa  ,35,136,3,1,S52,S52,Dining bar,Japanese,SP191,SP191,3,6
+5500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,462,Yes,No,HT335,HT335,Kyoukurozakura  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,21
+5500,3500,Gion Shijo,CT60,CT60,Gion Shijo,3,463,Yes,No,HT342,HT342,Kyounosakanakatsugi  ,35,136,3,1,S17,S17,Kappo Japanese,Seafood,SP262,SP262,3,227
+6500,3500,Gion Shijo,CT60,CT60,Gion Shijo,3,464,Yes,No,HT344,HT344,Kyouryourimaiko  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,439
+5500,2500,Gion Shijo,CT60,CT60,Gion Shijo,2,465,Yes,Yes,HT354,HT354,Kyoutogionkawamuraryourihei  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,2,125
+12500,5500,Gion Shijo,CT60,CT60,Gion Shijo,4,466,Yes,No,HT355,HT355,Kyoutogiontempurayasakaendou  ,35,136,4,1,S65,S65,Tempura,Kaiseki Japanese,SP264,SP264,4,30
+3500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,467,Yes,No,HT361,HT361,Kyoutokimurayahonten  ,35,136,3,1,S31,S31,Izakaya,Sukiyaki,SP258,SP258,3,249
+4500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,468,Yes,No,HT363,HT363,Kyoutomamehachi  ,35,136,3,1,S98,S98,Kyoto Cuisine,Tofu,SP241,SP241,3,6
+12500,5500,Gion Shijo,CT60,CT60,Gion Shijo,3,469,Yes,Yes,HT376,HT376,Kyouya  ,35,136,4,1,S62,S62,Kaiseki Japanese,Angler,SP243,SP243,3,7
+12500,3500,Gion Shijo,CT60,CT60,Gion Shijo,54,470,Yes,No,HT393,HT393,Manjirou  ,35,136,53,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,57,44
+12500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,471,Yes,No,HT401,HT401,Matsuzakagyuuwattsuzakicchin  ,35,136,3,1,S97,S97,Steak,Sushi,SP221,SP221,3,35
+25500,12500,Gion Shijo,CT60,CT60,Gion Shijo,3,472,Yes,Yes,HT412,HT412,Miyagawachousaka  ,35,136,3,1,S29,S29,Italian,French,SP183,SP183,3,111
+5500,3500,Gion Shijo,CT60,CT60,Gion Shijo,55,473,Yes,No,HT424,HT424,Nagamegawapontochouhana,35,136,3,1,S98,S98,Kaiseki Japanese,Tofu,SP243,SP243,56,823
+2500,3500,Gion Shijo,CT60,CT60,Gion Shijo,3,474,Yes,Yes,HT427,HT427,Nettaishokudou  ,35,136,4,1,S2,S2,Thailand cooking,Italian,SP250,SP250,3,49
+4500,2500,Gion Shijo,CT60,CT60,Gion Shijo,3,475,Yes,No,HT433,HT433,Nikukappoubarugyugyu  ,35,136,3,1,S91,S91,Bar,Izakaya,SP218,SP218,3,145
+35009,3700,Gion Shijo,CT60,CT60,Gion Shijo,3,476,Yes,No,HT439,HT439,Nonkitei  ,35,136,3,1,S53,S53,Kappo Japanese,Creative cuisine,SP262,SP262,3,334
+1500,3500,Gion Shijo,CT60,CT60,Gion Shijo,3,477,Yes,Yes,HT446,HT446,ORENO PAN okumura  ,35,136,56,1,S14,S14,Bread,Cafe,SP248,SP248,56,294
+4500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,478,Yes,Yes,HT475,HT475,Pontochounabariya  ,35,136,3,1,S55,S55,Italian,Wine bar,SP183,SP183,3,117
+5500,1250,Gion Shijo,CT60,CT60,Gion Shijo,52,479,Yes,No,HT478,HT478,Purachinabifu  ,35,136,4,1,S42,S42,Teppanyaki,Steak,SP196,SP196,53,546
+35009,3300,Gion Shijo,CT60,CT60,Gion Shijo,53,480,Yes,Yes,HT479,HT479,Puranchaken  ,35,136,3,1,S53,S53,Steak,Creative cuisine,SP221,SP221,53,11
+4500,1500,Gion Shijo,CT60,CT60,Gion Shijo,5,481,Yes,No,HT483,HT483,RIGOLETTO SMOKE GRILL & BAR  ,35,136,51,1,S46,S46,Italian,Spain,SP183,SP183,52,37
+6500,3300,Gion Shijo,CT60,CT60,Gion Shijo,3,482,Yes,Yes,HT484,HT484,Rakuchin  ,35,136,3,1,S52,S52,Kushi-age Fried Skewer,Japanese,SP207,SP207,3,5
+17500,5500,Gion Shijo,CT60,CT60,Gion Shijo,4,483,Yes,No,HT500,HT500,Ristorante t.v.b  ,35,136,4,1,S55,S55,Italian,Wine bar,SP183,SP183,4,374
+12500,4500,Gion Shijo,CT60,CT60,Gion Shijo,59,484,Yes,Yes,HT502,HT502,Risutoranteoraegion  ,35,136,3,1,S32,S32,Italian,Pasta,SP183,SP183,59,365
+6500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,485,Yes,Yes,HT515,HT515,Ryuuan  ,35,136,3,1,S52,S52,Yakiniku BBQ Beef,Japanese,SP219,SP219,4,25
+3500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,486,Yes,No,HT52,HT52,Bejitejiya  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,3,11
+2500,3550,Gion Shijo,CT60,CT60,Gion Shijo,3,487,Yes,No,HT546,HT546,Sentojemusukurabu  ,35,136,3,1,S38,S38,Bar,Suppon Soft Shelled Turtle,SP218,SP218,3,88
+35009,3700,Gion Shijo,CT60,CT60,Gion Shijo,3,488,Yes,No,HT55,HT55,Bistro SUMIRE Chinese   ,35,136,3,1,S66,S66,Chinese,Dim sum,SP193,SP193,3,38
+5500,3550,Gion Shijo,CT60,CT60,Gion Shijo,3,489,Yes,Yes,HT550,HT550,Sherikurabu  ,35,136,3,1,S46,S46,Bar,Spain,SP218,SP218,3,300
+5500,2500,Gion Shijo,CT60,CT60,Gion Shijo,4,490,Yes,No,HT553,HT553,Shikisaishiwori  ,35,136,3,1,S17,S17,Kyoto Cuisine,Seafood,SP241,SP241,4,334
+4500,3700,Gion Shijo,CT60,CT60,Gion Shijo,3,491,Yes,No,HT56,HT56,Bisutoroemuiaru  ,35,136,3,1,S2,S2,Bistro,Italian,SP259,SP259,3,122
+5500,3550,Gion Shijo,CT60,CT60,Gion Shijo,3,492,Yes,Yes,HT563,HT563,Shunkouhika  ,35,136,3,1,S64,S64,Kappo Japanese,Kyoto Cuisine,SP262,SP262,3,250
+25500,6500,Gion Shijo,CT60,CT60,Gion Shijo,3,493,Yes,No,HT602,HT602,Sutekihanasato  ,35,136,3,1,S20,S20,Steak,Teppanyaki,SP221,SP221,3,123
+3500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,494,Yes,Yes,HT604,HT604,THE AGLIO GARDEN  ,35,136,4,1,S53,S53,Dining bar,Creative cuisine,SP191,SP191,3,14
+5500,1250,Gion Shijo,CT60,CT60,Gion Shijo,4,495,Yes,Yes,HT613,HT613,Takasegawa  ,35,136,3,1,S54,S54,Sumibiyaki,YakitoriGrilledChicken,SP256,SP256,4,314
+5500,1500,Gion Shijo,CT60,CT60,Gion Shijo,58,496,Yes,No,HT64,HT64,CHULETA  ,35,136,3,1,S43,S43,Spain,Bar,SP220,SP220,58,247
+12500,3700,Gion Shijo,CT60,CT60,Gion Shijo,52,497,Yes,No,HT660,HT660,Tsuneo  ,35,136,3,1,S55,S55,Kappo Japanese,Wine bar,SP262,SP262,52,340
+5500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,498,Yes,No,HT670,HT670,Wasabi  ,35,136,3,1,S91,S91,Sushi,Izakaya,SP267,SP267,3,435
+2500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,499,Yes,No,HT692,HT692,Yakinikuyaruki  ,35,136,3,1,S42,S42,Yakiniku BBQ Beef,Steak,SP219,SP219,3,197
+25500,35009,Gion Shijo,CT60,CT60,Gion Shijo,4,500,Yes,No,HT698,HT698,Yosuke YAMAJI  ,35,136,5,1,S67,S67,French,Modern French,SP208,SP208,4,717
+6500,2500,Gion Shijo,CT60,CT60,Gion Shijo,4,501,Yes,Yes,HT706,HT706,Zasoudouhigashiyamakyouto  ,35,136,58,1,S32,S32,Italian,Pasta,SP183,SP183,4,6
+4500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,502,Yes,No,HT710,HT710,ajiromanishigamatei  ,35,136,4,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,5
+5500,1500,Gion Shijo,CT60,CT60,Gion Shijo,4,503,Yes,No,HT719,HT719,chuugokuryourichimmin  ,35,136,52,1,S66,S66,Chinese,Dim sum,SP193,SP193,5,10
+4500,1250,Gion Shijo,CT60,CT60,Gion Shijo,4,504,Yes,No,HT725,HT725,daininguba-daburyu-  ,35,136,3,1,S42,S42,Kappo Japanese,Steak,SP262,SP262,4,5
+4500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,505,Yes,No,HT727,HT727,datten  ,35,136,3,1,S43,S43,Italian,Bar,SP183,SP183,3,22
+3500,3500,Gion Shijo,CT60,CT60,Gion Shijo,54,506,Yes,No,HT733,HT733,furenchigiombarumaruhashi  ,35,136,3,1,S29,S29,Bar,French,SP218,SP218,54,83
+35009,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,507,Yes,No,HT735,HT735,giombashunrou  ,35,136,3,1,S5,S5,Meat dishes,Regional Cuisine Other,SP269,SP269,3,118
+12500,3500,Gion Shijo,CT60,CT60,Gion Shijo,3,508,Yes,No,HT736,HT736,gionkurashita  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,201
+3500,3700,Gion Shijo,CT60,CT60,Gion Shijo,3,509,Yes,No,HT738,HT738,gionnotonjiruyasanadachiya  ,35,136,3,1,S78,S78,Regional Cuisine Other,Nihonshu Japanese Sake,SP184,SP184,3,3
+5500,3300,Gion Shijo,CT60,CT60,Gion Shijo,3,510,Yes,No,HT739,HT739,giwonizakayamomojirou  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,30
+35009,3500,Gion Shijo,CT60,CT60,Gion Shijo,4,511,Yes,No,HT753,HT753,itarianasagura  ,35,136,52,1,S55,S55,Italian,Wine bar,SP183,SP183,59,29
+3500,3700,Gion Shijo,CT60,CT60,Gion Shijo,3,512,Yes,No,HT755,HT755,izakayaba-shiba  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,33
+2500,2500,Gion Shijo,CT60,CT60,Gion Shijo,3,513,Yes,Yes,HT772,HT772,koshitsuichiammasamunebettei  ,35,136,3,1,S16,S16,Izakaya,Dining bar,SP258,SP258,3,330
+4500,1500,Gion Shijo,CT60,CT60,Gion Shijo,2,514,Yes,No,HT786,HT786,kyoutofushimigurapontochoumi2.76mian  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,2,488
+12500,3500,Gion Shijo,CT60,CT60,Gion Shijo,5,515,Yes,No,HT787,HT787,kyoutogyuukaisekiinayoshi  ,35,136,3,1,S39,S39,Kaiseki Japanese,Beef dishes,SP243,SP243,52,717
+12500,4500,Gion Shijo,CT60,CT60,Gion Shijo,4,516,Yes,No,HT796,HT796,matono  ,35,136,5,1,S65,S65,Kappo Japanese,Kaiseki Japanese,SP262,SP262,5,332
+2500,3700,Gion Shijo,CT60,CT60,Gion Shijo,3,517,Yes,No,HT799,HT799,mikusoroji-ba-sumu-su  ,35,136,3,1,S16,S16,Bar,Dining bar,SP218,SP218,3,229
+3500,3700,Gion Shijo,CT60,CT60,Gion Shijo,3,518,Yes,No,HT810,HT810,nikubaruginjirou  ,35,136,3,1,S42,S42,Bar,Steak,SP218,SP218,3,58
+4500,3500,Gion Shijo,CT60,CT60,Gion Shijo,3,519,Yes,No,HT817,HT817,nikushokusakabagaru  ,35,136,3,1,S79,S79,Bar,Sumibiyaki,SP218,SP218,3,17
+6500,4500,Gion Shijo,CT60,CT60,Gion Shijo,3,520,Yes,No,HT82,HT82,Daitouryou  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,207
+2500,3700,Gion Shijo,CT60,CT60,Gion Shijo,3,521,Yes,No,HT855,HT855,teppandainingugionshou  ,35,136,3,1,S20,S20,Izakaya,Teppanyaki,SP258,SP258,3,456
+5500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,522,Yes,No,HT857,HT857,teppandainingukyoushikian  ,35,136,3,1,S42,S42,Teppanyaki,Steak,SP196,SP196,3,9
+3500,3500,Gion Shijo,CT60,CT60,Gion Shijo,3,523,Yes,Yes,HT866,HT866,umaimonyaki sun  ,35,136,3,1,S52,S52,YakitoriGrilledChicken,Japanese,SP232,SP232,3,755
+4500,3500,Sanjo Keihan,CT61,CT61,Sanjo Keihan,3,524,Yes,No,HT136,HT136,Gionshimmonsou  ,35,136,3,1,S65,S65,Ryokan,Kaiseki Japanese,SP195,SP195,3,430
+35009,5500,Sanjo Keihan,CT61,CT61,Sanjo Keihan,51,525,Yes,No,HT141,HT141,Gionyuyama  ,35,136,52,1,S94,S94,Kaiseki Japanese,Kappo Japanese,SP243,SP243,51,11
+1500,1500,Sanjo Keihan,CT61,CT61,Sanjo Keihan,4,526,Yes,Yes,HT143,HT143,Giwontokiwa  ,35,136,52,1,S77,S77,Soba,Udon,SP202,SP202,4,40
+1500,1250,Sanjo Keihan,CT61,CT61,Sanjo Keihan,4,527,Yes,No,HT519,HT519,Ryuumon  ,35,136,3,1,S15,S15,Sichuan Cuisine,Chinese,SP198,SP198,4,560
+12500,6500,Sanjo Keihan,CT61,CT61,Sanjo Keihan,4,528,Yes,No,HT737,HT737,gionni-yongo  ,35,136,5,1,S29,S29,Italian,French,SP183,SP183,4,458
+3500,1500,Hanazono,CT62,CT62,Hanazono,3,529,Yes,No,HT170,HT170,Hanagokoro  ,35,136,3,1,S68,S68,Kyoto Cuisine,Shojin Cuisine Buddhist Cuisine,SP241,SP241,3,820
+4500,3700,Hanazono,CT62,CT62,Hanazono,3,530,Yes,Yes,HT615,HT615,Taketori  ,35,136,3,1,S54,S54,Fowl,YakitoriGrilledChicken,SP197,SP197,3,250
+1500,1500,Toji,CT63,CT63,Toji,3,531,Yes,No,HT816,HT816,nikugaumaikafenikkusutokku  ,35,136,3,1,S42,S42,Cafe,Steak,SP190,SP190,3,287
+2500,3550,Higashi Muko,CT64,CT64,Higashi Muko,2,532,Yes,No,HT699,HT699,Youfuushuzenumakarou  ,35,136,3,1,S16,S16,Izakaya,Dining bar,SP258,SP258,2,374
+4500,3550,Okubo,CT65,CT65,Okubo,3,533,Yes,No,HT274,HT274,Karibunoutage  ,35,136,3,1,S34,S34,YakitoriGrilledChicken,Kushi-age Fried Skewer,SP232,SP232,3,368
+5500,1250,Nagitsuji,CT66,CT66,Nagitsuji,3,534,Yes,No,HT159,HT159,Gyuukimura  ,35,136,3,1,S31,S31,Yakiniku BBQ Beef,Sukiyaki,SP219,SP219,3,51
+2500,3500,Nagitsuji,CT66,CT66,Nagitsuji,2,535,Yes,No,HT72,HT72,Chikyuuizakayashibuya  ,35,136,2,1,S52,S52,Izakaya,Japanese,SP258,SP258,2,10
+2500,3550,Nagitsuji,CT66,CT66,Nagitsuji,3,536,Yes,No,HT880,HT880,yakinikuyaruki  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,3,98
+2500,3500,Higashino,CT67,CT67,Higashino,3,537,Yes,No,HT313,HT313,Kunseimaketto  ,35,136,3,1,S23,S23,Cafe,Western Food,SP190,SP190,3,820
+1500,3500,Higashino,CT67,CT67,Higashino,3,538,Yes,No,HT687,HT687,Yakinikunonki  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,302
+3500,3500,Momoyamagoryomae,CT68,CT68,Momoyamagoryomae,2,539,Yes,No,HT19,HT19,Al Vere  ,35,136,3,1,S32,S32,Italian,Pasta,SP183,SP183,2,51
+4500,1250,Momoyamagoryomae,CT68,CT68,Momoyamagoryomae,3,540,Yes,No,HT336,HT336,Kyoumachibaru  ,35,136,3,1,S91,S91,Dining bar,Izakaya,SP191,SP191,3,147
+1500,3500,Momoyamagoryomae,CT68,CT68,Momoyamagoryomae,3,541,Yes,Yes,HT638,HT638,Teppen  ,35,136,2,1,S89,S89,Okonomiyaki,Chow Mein Noodle,SP209,SP209,3,11
+2500,1500,Yawatashi,CT69,CT69,Yawatashi,3,542,Yes,No,HT566,HT566,Shunsaisousakubifferoan  ,35,136,2,1,S3,S3,Buffet style,Shabu Shabu Japanese Steamboat,SP253,SP253,2,1216
+2500,1500,Yawatashi,CT69,CT69,Yawatashi,2,543,Yes,No,HT600,HT600,Susumevaikingubaikingu  ,35,136,3,1,S47,S47,Buffet style,Yakiniku BBQ Beef,SP253,SP253,3,10
+3500,1250,Arashiyama Torokko S,CT7,CT7,Arashiyama Torokko S,3,544,Yes,No,HT769,HT769,kodawaritamagosemmontentamagoya  ,35,136,3,1,S52,S52,Cafe,Japanese,SP190,SP190,3,157
+2500,1250,Shin Ta2.76be,CT70,CT70,Shin Ta2.76be,3,545,Yes,No,HT155,HT155,Gurumatei  ,35,136,3,1,S20,S20,Okonomiyaki,Teppanyaki,SP209,SP209,3,72
+3500,3550,Kyoto,CT71,CT71,Kyoto,3,546,Yes,No,HT102,HT102,Fresco  ,35,136,3,1,S46,S46,Izakaya,Spain,SP258,SP258,3,109
+4500,3550,Kyoto,CT71,CT71,Kyoto,51,547,Yes,No,HT107,HT107,Furenchiman  ,35,136,3,1,S17,S17,Bistro,Seafood,SP259,SP259,51,345
+3500,1500,Kyoto,CT71,CT71,Kyoto,3,548,Yes,Yes,HT111,HT111,Ganko  ,35,136,3,1,S52,S52,Kaiseki Japanese,Japanese,SP243,SP243,3,613
+4500,3500,Kyoto,CT71,CT71,Kyoto,3,549,Yes,No,HT116,HT116,Gempinfugukyoutoekimaenoseki  ,35,136,3,1,S6,S6,FuguBlowfish,Hot Pot,SP214,SP214,3,5
+35009,3700,Kyoto,CT71,CT71,Kyoto,52,550,Yes,No,HT12,HT12,Ajidokoroterasaki  ,35,136,3,1,S17,S17,Kaiseki Japanese,Seafood,SP243,SP243,52,303
+4500,3700,Kyoto,CT71,CT71,Kyoto,3,551,Yes,No,HT120,HT120,Ginnan  ,35,136,3,1,S98,S98,Izakaya,Tofu,SP258,SP258,3,570
+3500,3500,Kyoto,CT71,CT71,Kyoto,3,552,Yes,No,HT121,HT121,Ginzaraion  ,35,136,3,1,S11,S11,Beer,beer restaurant,SP189,SP189,3,353
+3500,3500,Kyoto,CT71,CT71,Kyoto,3,553,Yes,No,HT145,HT145,Gochiya  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,3,13
+4500,3550,Kyoto,CT71,CT71,Kyoto,4,554,Yes,Yes,HT157,HT157,Gyararishioriya  ,35,136,3,1,S78,S78,Izakaya,Nihonshu Japanese Sake,SP258,SP258,4,142
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,555,Yes,Yes,HT161,HT161,Gyuutankeisuke  ,35,136,3,1,S8,S8,Izakaya,Gyutan Beef tongue,SP258,SP258,3,11
+2500,1250,Kyoto,CT71,CT71,Kyoto,53,556,Yes,No,HT171,HT171,Hanakushi  ,35,136,4,1,S91,S91,Kushi-age Fried Skewer,Izakaya,SP207,SP207,53,9
+1500,3500,Kyoto,CT71,CT71,Kyoto,3,557,Yes,Yes,HT177,HT177,Heso  ,35,136,3,1,S91,S91,Standing style soba,Izakaya,SP201,SP201,3,6
+3500,1250,Kyoto,CT71,CT71,Kyoto,2,558,Yes,No,HT181,HT181,Hirarinteitemboukaku  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,2,117
+3500,3700,Kyoto,CT71,CT71,Kyoto,2,559,Yes,Yes,HT185,HT185,Hitotose  ,35,136,3,1,S91,S91,Japanese,Izakaya,SP235,SP235,2,208
+3500,3500,Kyoto,CT71,CT71,Kyoto,59,560,Yes,No,HT186,HT186,Honkedaiichiasahi  ,35,136,4,1,S100,S100,Ramen,Dumplings,SP216,SP216,4,294
+4500,1500,Kyoto,CT71,CT71,Kyoto,3,561,Yes,No,HT199,HT199,Ichibakouji  ,35,136,4,1,S53,S53,Dining bar,Creative cuisine,SP191,SP191,5,21
+4500,3500,Kyoto,CT71,CT71,Kyoto,52,562,Yes,No,HT201,HT201,Ichishun  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,53,12
+3500,3300,Kyoto,CT71,CT71,Kyoto,3,563,Yes,Yes,HT210,HT210,Imomatsu  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,14
+3500,1500,Kyoto,CT71,CT71,Kyoto,2,564,Yes,Yes,HT224,HT224,Itariankuatoro  ,35,136,3,1,S83,S83,Italian,European Style Curry,SP183,SP183,3,550
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,565,Yes,Yes,HT230,HT230,Izakayabambu  ,35,136,3,1,S94,S94,Izakaya,Kappo Japanese,SP258,SP258,3,11
+5500,1500,Kyoto,CT71,CT71,Kyoto,3,566,Yes,No,HT237,HT237,Jukuseiyakinikupondo  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,115
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,567,Yes,Yes,HT238,HT238,Juujuu  ,35,136,3,1,S52,S52,Yakiniku BBQ Beef,Japanese,SP219,SP219,3,201
+2500,3500,Kyoto,CT71,CT71,Kyoto,3,568,Yes,No,HT239,HT239,Juunikiyakan  ,35,136,2,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,9
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,569,Yes,No,HT261,HT261,Kampaiboupuruda  ,35,136,3,1,S47,S47,Korean cuisine,Yakiniku BBQ Beef,SP263,SP263,3,167
+2500,3500,Kyoto,CT71,CT71,Kyoto,3,570,Yes,No,HT287,HT287,Kidoriya  ,35,136,2,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,2,430
+1500,1500,Kyoto,CT71,CT71,Kyoto,3,571,Yes,Yes,HT299,HT299,Kitanoguriru  ,35,136,3,1,S74,S74,Hamburger Steak,Croquette,SP244,SP244,3,550
+4500,1500,Kyoto,CT71,CT71,Kyoto,2,572,Yes,No,HT306,HT306,Kokekokko  ,35,136,3,1,S42,S42,Izakaya,Steak,SP258,SP258,3,430
+2500,1250,Kyoto,CT71,CT71,Kyoto,3,573,Yes,No,HT321,HT321,Kushikatsutakoyakiseichan  ,35,136,3,1,S73,S73,Izakaya,Takoyaki,SP258,SP258,3,34
+2500,3500,Marutamachi,CT10,CT10,Marutamachi,3,1,Yes,Yes,HT193,HT193,ITALIAN BAR MODERNTIMES  ,35,136,4,1,S45,S45,Italian,Pizza,SP183,SP183,4,314
+1500,1500,Marutamachi,CT10,CT10,Marutamachi,3,2,Yes,No,HT246,HT246,Kafecherisshu  ,35,136,3,1,S59,S59,Cafe,Sweets,SP190,SP190,3,88
+35009,1250,Marutamachi,CT10,CT10,Marutamachi,3,3,Yes,No,HT270,HT270,Kappousaraku  ,35,136,3,1,S64,S64,Kappo Japanese,Kyoto Cuisine,SP262,SP262,3,369
+4500,3500,Marutamachi,CT10,CT10,Marutamachi,3,4,Yes,No,HT290,HT290,Kihara  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,68
+5500,3500,Marutamachi,CT10,CT10,Marutamachi,3,5,Yes,No,HT316,HT316,Kurogewagyuutenshou  ,35,136,3,1,S31,S31,Yakiniku BBQ Beef,Sukiyaki,SP219,SP219,5,2
+6500,3500,Marutamachi,CT10,CT10,Marutamachi,3,6,Yes,No,HT329,HT329,Kyo gastronomy KOZO  ,35,136,3,1,S64,S64,French,Kyoto Cuisine,SP208,SP208,3,0
+5500,2500,Marutamachi,CT10,CT10,Marutamachi,3,7,Yes,No,HT334,HT334,Kyoukarasuma  ,35,136,3,1,S3,S3,Kappo Japanese,Shabu Shabu Japanese Steamboat,SP262,SP262,3,546
+6500,2500,Marutamachi,CT10,CT10,Marutamachi,3,8,Yes,No,HT346,HT346,Kyouryouritategami  ,35,136,4,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,51,2
+6500,4500,Marutamachi,CT10,CT10,Marutamachi,51,9,Yes,No,HT348,HT348,Kyouryouriyumekaisekitaniguchi  ,35,136,5,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,51,433
+35009,2500,Marutamachi,CT10,CT10,Marutamachi,3,10,Yes,No,HT365,HT365,Kyoutonijoutosaka  ,35,136,57,1,S52,S52,Kappo Japanese,Japanese,SP262,SP262,53,543
+6500,2500,Marutamachi,CT10,CT10,Marutamachi,3,11,Yes,No,HT371,HT371,Kyoutotsuyushabuchiriri  ,35,136,51,1,S31,S31,Shabu Shabu Japanese Steamboat,Sukiyaki,SP186,SP186,51,647
+35009,2500,Marutamachi,CT10,CT10,Marutamachi,4,12,Yes,No,HT383,HT383,L'ajitto  ,35,136,3,1,S35,S35,Teppanyaki,Okonomiyaki,SP196,SP196,4,3
+2500,3500,Marutamachi,CT10,CT10,Marutamachi,3,13,Yes,No,HT43,HT43,Bankokugaden  ,35,136,3,1,S82,S82,Thailand cooking,Thai Curry,SP250,SP250,3,11
+1500,1500,Marutamachi,CT10,CT10,Marutamachi,3,14,Yes,Yes,HT464,HT464,Oumiyaseiemon  ,35,136,53,1,S70,S70,European Style Curry,Curry rice,SP252,SP252,54,849
+12500,5500,Marutamachi,CT10,CT10,Marutamachi,3,15,Yes,No,HT512,HT512,Rudensu  ,35,136,3,1,S102,S102,Italian,Vegetable dishes,SP183,SP183,3,67
+3500,3500,Marutamachi,CT10,CT10,Marutamachi,3,16,Yes,Yes,HT537,HT537,Sanji  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,917
+4500,1250,Marutamachi,CT10,CT10,Marutamachi,3,17,Yes,No,HT559,HT559,Shou  ,35,136,3,1,S91,S91,Oden,Izakaya,SP199,SP199,3,458
+3500,3500,Marutamachi,CT10,CT10,Marutamachi,3,18,Yes,No,HT586,HT586,Sumibikushiyakitsujiya  ,35,136,3,1,S91,S91,YakitoriGrilledChicken,Izakaya,SP232,SP232,3,548
+3500,3550,Marutamachi,CT10,CT10,Marutamachi,3,19,Yes,No,HT766,HT766,kamanzanijoumarufuku  ,35,136,3,1,S101,S101,Izakaya,Tempura,SP258,SP258,3,214
+35009,5500,Marutamachi,CT10,CT10,Marutamachi,54,20,Yes,No,HT781,HT781,kyouryourikaji  ,35,136,51,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,56,555
+4500,3500,Marutamachi,CT10,CT10,Marutamachi,3,21,Yes,No,HT814,HT814,nikudokoroikkou  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,3,393
+4500,1500,Marutamachi,CT10,CT10,Marutamachi,3,22,Yes,No,HT826,HT826,ottimo  ,35,136,53,1,S32,S32,Italian,Pasta,SP183,SP183,3,160
+4500,1500,Marutamachi,CT10,CT10,Marutamachi,4,23,Yes,No,HT852,HT852,sute-kihausupondo  ,35,136,3,1,S72,S72,Steak,Hamburger Steak,SP221,SP221,4,136
+3500,1250,Jujo,CT11,CT11,Jujo,3,24,Yes,Yes,HT148,HT148,Gokyou  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,30
+3500,3500,Jujo,CT11,CT11,Jujo,3,25,Yes,No,HT150,HT150,Gori's Kitchen  ,35,136,3,1,S45,S45,Italian,Pizza,SP183,SP183,3,29
+4500,3700,Jujo,CT11,CT11,Jujo,2,26,Yes,No,HT463,HT463,Oumigyuuyakinikumeitokuya  ,35,136,3,1,S17,S17,Yakiniku BBQ Beef,Seafood,SP219,SP219,2,161
+4500,3550,Fushimi,CT12,CT12,Fushimi,3,27,Yes,No,HT639,HT639,Teppou  ,35,136,3,1,S6,S6,Izakaya,Hot Pot,SP258,SP258,3,430
+3500,3500,Fushimi,CT12,CT12,Fushimi,4,28,Yes,Yes,HT767,HT767,karubidontosundoufusemmontenkandon  ,35,136,4,1,S40,S40,Korean cuisine,Ramen,SP263,SP263,3,176
+6500,2500,Fushimi,CT12,CT12,Fushimi,4,29,Yes,No,HT837,HT837,sakanaryouritosakeshinsengumi  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,4,332
+2500,3550,Fushimi,CT12,CT12,Fushimi,3,30,Yes,No,HT878,HT878,yakinikuyaruki  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,3,422
+3500,3700,Keihan Yamashi2.76,CT13,CT13,Keihan Yamashi2.76,3,31,Yes,No,HT417,HT417,Momojirou  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,290
+3500,3700,Nishioji Oike,CT14,CT14,Nishioji Oike,3,32,Yes,No,HT173,HT173,Hanatanuki  ,35,136,3,1,S35,S35,Izakaya,Okonomiyaki,SP258,SP258,3,6
+17500,17500,Kurama,CT15,CT15,Kurama,59,33,Yes,No,HT182,HT182,Hiroya  ,35,136,57,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,59,249
+12500,3500,Kurama,CT15,CT15,Kurama,51,34,Yes,No,HT288,HT288,Kifunekiraku  ,35,136,3,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,52,1
+12500,6500,Kurama,CT15,CT15,Kurama,51,35,Yes,Yes,HT289,HT289,Kifuneugenta  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,54,353
+6500,6500,Kurama,CT15,CT15,Kurama,3,36,Yes,Yes,HT768,HT768,kibunebeniya  ,35,136,51,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,54,25
+1500,1250,Kurama,CT15,CT15,Kurama,3,37,Yes,No,HT86,HT86,Dembei  ,35,136,3,1,S9,S9,Soba,Kamameshi Clay Pot Rice,SP202,SP202,4,88
+3500,1500,Matsugasaki,CT17,CT17,Matsugasaki,3,38,Yes,No,HT830,HT830,pino  ,35,136,3,1,S14,S14,Italian,Cafe,SP183,SP183,3,12
+3500,1500,Matsugasaki,CT17,CT17,Matsugasaki,3,39,Yes,Yes,HT849,HT849,supeimbarurapaera  ,35,136,4,1,S43,S43,Spain,Bar,SP220,SP220,4,85
+4500,1500,Matsugasaki,CT17,CT17,Matsugasaki,3,40,Yes,No,HT94,HT94,Erudoru  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,485
+3500,1250,Nishioji,CT18,CT18,Nishioji,4,41,Yes,Yes,HT265,HT265,Kankokusakuratei  ,35,136,4,1,S53,S53,Yakiniku BBQ Beef,Creative cuisine,SP219,SP219,4,123
+3500,1250,Nishioji,CT18,CT18,Nishioji,4,42,Yes,No,HT407,HT407,Miho  ,35,136,3,1,S57,S57,Izakaya,Cuisine,SP258,SP258,4,114
+3500,1500,Nishioji,CT18,CT18,Nishioji,3,43,Yes,Yes,HT440,HT440,Norakuro  ,35,136,3,1,S92,S92,Italian,Bistro,SP183,SP183,3,7
+3500,3500,Nishioji,CT18,CT18,Nishioji,53,44,Yes,Yes,HT716,HT716,burassuri-kontowa-ru  ,35,136,3,1,S92,S92,Izakaya,Bistro,SP258,SP258,53,314
+2500,1250,Nishioji,CT18,CT18,Nishioji,3,45,Yes,No,HT728,HT728,eetokodori  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,535
+3500,3500,Ichijoji,CT19,CT19,Ichijoji,58,46,Yes,Yes,HT721,HT721,chuukasobatakayasu  ,35,136,59,1,S87,S87,Ramen,Boneless deep-fried chicken,SP216,SP216,59,237
+2500,1250,Ichijoji,CT19,CT19,Ichijoji,3,47,Yes,Yes,HT879,HT879,yakinikuyaruki  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,3,5
+3500,3500,Tambaguchi,CT2,CT2,Tambaguchi,3,48,Yes,No,HT13,HT13,Ajinomeimon  ,35,136,3,1,S100,S100,Ramen,Dumplings,SP216,SP216,3,392
+6500,2500,Tambaguchi,CT2,CT2,Tambaguchi,3,49,Yes,No,HT164,HT164,Hachisei  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,51
+4500,3700,Tambaguchi,CT2,CT2,Tambaguchi,52,50,Yes,Yes,HT17,HT17,Akayashiro  ,35,136,3,1,S47,S47,Horumon BBQ Offel,Yakiniku BBQ Beef,SP260,SP260,52,122
+12500,3550,Tambaguchi,CT2,CT2,Tambaguchi,4,51,Yes,No,HT204,HT204,Iharada  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,4,372
+4500,3500,Tambaguchi,CT2,CT2,Tambaguchi,3,52,Yes,No,HT481,HT481,REAL NETA DINING ICHIZ  ,35,136,2,1,S91,S91,Italian,Izakaya,SP183,SP183,3,57
+3500,1500,Tambaguchi,CT2,CT2,Tambaguchi,2,53,Yes,No,HT664,HT664,Umekoujikorabo  ,35,136,3,1,S32,S32,Italian,Pasta,SP183,SP183,3,456
+3500,3700,Tambaguchi,CT2,CT2,Tambaguchi,3,54,Yes,Yes,HT689,HT689,Yakinikusebun  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,917
+4500,3700,Tambaguchi,CT2,CT2,Tambaguchi,4,55,Yes,No,HT724,HT724,daikouen  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,4,677
+1500,1500,Tambaguchi,CT2,CT2,Tambaguchi,3,56,Yes,No,HT747,HT747,hamba-guandosute-kipondo  ,35,136,3,1,S42,S42,Hamburger Steak,Steak,SP244,SP244,3,17
+2500,1500,Tambaguchi,CT2,CT2,Tambaguchi,3,57,Yes,No,HT815,HT815,nikugaumaikafenikkusutokku  ,35,136,3,1,S42,S42,Cafe,Steak,SP190,SP190,3,823
+3500,1250,Tambaguchi,CT2,CT2,Tambaguchi,3,58,Yes,Yes,HT823,HT823,okonomiyakiteppanyakimiki  ,35,136,3,1,S91,S91,Okonomiyaki,Izakaya,SP209,SP209,3,365
+5500,1250,Tambaguchi,CT2,CT2,Tambaguchi,52,59,Yes,Yes,HT875,HT875,yakinikubunya  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,52,879
+3500,1500,Matsuiyamate,CT20,CT20,Matsuiyamate,2,60,Yes,Yes,HT297,HT297,Kirarazaka  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,3,4530
+1500,3500,Matsuiyamate,CT20,CT20,Matsuiyamate,3,61,Yes,Yes,HT876,HT876,yakinikushokudoukandon  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,3,489
+2500,3500,Nagaokakyo,CT21,CT21,Nagaokakyo,2,62,Yes,No,HT591,HT591,Sumibiyakitorikajian  ,35,136,3,1,S75,S75,YakitoriGrilledChicken,Shochu Japanese Spirits,SP232,SP232,3,520
+3500,2500,Kokusaikaikan,CT22,CT22,Kokusaikaikan,4,63,Yes,No,HT700,HT700,Yubasen  ,35,136,3,1,S36,S36,Tofu,Yuba,SP265,SP265,51,58
+3500,3500,2.76gaokakyo,CT23,CT23,2.76gaokakyo,3,64,Yes,No,HT118,HT118,Genkiya  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,4,34
+5500,2500,Sanjo,CT24,CT24,Sanjo,3,65,Yes,Yes,HT1,HT1,2.76betoshunsaitokyouryourikaryuu  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,294
+35009,5500,Sanjo,CT24,CT24,Sanjo,3,66,Yes,No,HT105,HT105,Fujiya  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,66
+2500,1500,Sanjo,CT24,CT24,Sanjo,3,67,Yes,Yes,HT110,HT110,GRILL&PUB The NICK STOCK  ,35,136,2,1,S43,S43,Steak,Bar,SP221,SP221,2,123
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,68,Yes,No,HT115,HT115,Gayagaya  ,35,136,3,1,S43,S43,Izakaya,Bar,SP258,SP258,3,621
+5500,4500,Sanjo,CT24,CT24,Sanjo,3,69,Yes,Yes,HT169,HT169,Hamachou  ,35,136,3,1,S91,S91,Kaiseki Japanese,Izakaya,SP243,SP243,3,387
+4500,1250,Sanjo,CT24,CT24,Sanjo,3,70,Yes,No,HT195,HT195,Ibushigin  ,35,136,3,1,S16,S16,Izakaya,Dining bar,SP258,SP258,3,11
+3500,1250,Sanjo,CT24,CT24,Sanjo,4,71,Yes,No,HT240,HT240,KAZUMA  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,4,270
+3500,3700,Sanjo,CT24,CT24,Sanjo,2,72,Yes,No,HT262,HT262,Kampaiboupuruda  ,35,136,3,1,S47,S47,Korean cuisine,Yakiniku BBQ Beef,SP263,SP263,2,123
+3500,3700,Sanjo,CT24,CT24,Sanjo,3,73,Yes,No,HT282,HT282,Kenedhikurabu  ,35,136,3,1,S2,S2,Bar,Italian,SP218,SP218,3,63
+3500,3700,Sanjo,CT24,CT24,Sanjo,4,74,Yes,No,HT303,HT303,Kizakurajirokutei  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,4,270
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,75,Yes,No,HT308,HT308,Komefuku  ,35,136,3,1,S17,S17,Tempura,Seafood,SP264,SP264,3,10
+2500,1250,Sanjo,CT24,CT24,Sanjo,3,76,Yes,No,HT32,HT32,Arufakafe  ,35,136,4,1,S43,S43,Dining bar,Bar,SP191,SP191,3,21
+3500,3700,Sanjo,CT24,CT24,Sanjo,3,77,Yes,No,HT330,HT330,Kyouhonoka  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,3,88
+4500,2500,Sanjo,CT24,CT24,Sanjo,3,78,Yes,No,HT397,HT397,Maruichi  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,3,11
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,79,Yes,Yes,HT426,HT426,Nagoyako-chintokoshitsuizakayatorisai  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,1070
+3500,2500,Sanjo,CT24,CT24,Sanjo,3,80,Yes,Yes,HT453,HT453,Oribuoirusemmontenaorio  ,35,136,3,1,S42,S42,Bistro,Steak,SP259,SP259,3,19
+2500,1250,Sanjo,CT24,CT24,Sanjo,3,81,Yes,No,HT46,HT46,Bapontochoukisshou  ,35,136,3,1,S7,S7,Bar,Pub,SP218,SP218,3,433
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,82,Yes,Yes,HT467,HT467,Ozabu  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,144
+3500,3300,Sanjo,CT24,CT24,Sanjo,4,83,Yes,No,HT47,HT47,Bar MICHIya  ,35,136,3,1,S43,S43,Bar,Bar,SP218,SP218,4,44
+3500,1500,Sanjo,CT24,CT24,Sanjo,3,84,Yes,Yes,HT473,HT473,Pittsusarubatorekuomoandoguriru  ,35,136,3,1,S2,S2,Pizza,Italian,SP225,SP225,3,123
+6500,1250,Sanjo,CT24,CT24,Sanjo,4,85,Yes,No,HT476,HT476,Pontochourobin  ,35,136,5,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,22
+3500,1500,Sanjo,CT24,CT24,Sanjo,3,86,Yes,No,HT495,HT495,Resort dining&bar HaLe  ,35,136,2,1,S43,S43,Italian,Bar,SP183,SP183,3,520
+3500,3700,Sanjo,CT24,CT24,Sanjo,3,87,Yes,Yes,HT521,HT521,SHUKURA  ,35,136,3,1,S78,S78,Bar,Nihonshu Japanese Sake,SP218,SP218,3,365
+4500,1250,Sanjo,CT24,CT24,Sanjo,3,88,Yes,No,HT532,HT532,Sakayaagurema  ,35,136,3,1,S31,S31,Izakaya,Sukiyaki,SP258,SP258,3,24
+3500,3700,Sanjo,CT24,CT24,Sanjo,2,89,Yes,No,HT557,HT557,Shisui  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,2,800
+3500,3700,Sanjo,CT24,CT24,Sanjo,3,90,Yes,No,HT564,HT564,Shunsaidaininguitokoya  ,35,136,3,1,S102,S102,Izakaya,Vegetable dishes,SP258,SP258,3,22
+35009,1500,Sanjo,CT24,CT24,Sanjo,3,91,Yes,Yes,HT575,HT575,Soufuku  ,35,136,3,1,S20,S20,Steak,Teppanyaki,SP221,SP221,3,615
+3500,1500,Sanjo,CT24,CT24,Sanjo,3,92,Yes,No,HT595,HT595,Sunny  ,35,136,3,1,S42,S42,Dining bar,Steak,SP191,SP191,3,25
+6500,2500,Sanjo,CT24,CT24,Sanjo,3,93,Yes,No,HT599,HT599,Sushiyoshino  ,35,136,3,1,S94,S94,Sushi,Kappo Japanese,SP267,SP267,3,360
+4500,1250,Sanjo,CT24,CT24,Sanjo,3,94,Yes,No,HT603,HT603,TENTATION  ,35,136,3,1,S2,S2,Bistro,Italian,SP259,SP259,3,618
+2500,1250,Sanjo,CT24,CT24,Sanjo,2,95,Yes,No,HT619,HT619,Tanuki  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,2,355
+4500,3550,Sanjo,CT24,CT24,Sanjo,3,96,Yes,No,HT657,HT657,Tsubakurosupponshokudou  ,35,136,3,1,S6,S6,Suppon Soft Shelled Turtle,Hot Pot,SP211,SP211,3,36
+4500,1250,Sanjo,CT24,CT24,Sanjo,53,97,Yes,Yes,HT663,HT663,Umayakinikusemmontensakuratomomiji  ,35,136,3,1,S103,S103,Yakiniku BBQ Beef,Meat dishes,SP219,SP219,53,1070
+3500,3700,Sanjo,CT24,CT24,Sanjo,3,98,Yes,No,HT667,HT667,Wakanoshizuku  ,35,136,3,1,S19,S19,Izakaya,Chanko Sumo Wrestlers Hot Pot,SP258,SP258,3,631
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,99,Yes,No,HT690,HT690,Yakinikushoukakuoukiyamachitei  ,35,136,3,1,S8,S8,Yakiniku BBQ Beef,Gyutan Beef tongue,SP219,SP219,3,800
+5500,3550,Sanjo,CT24,CT24,Sanjo,51,100,Yes,No,HT697,HT697,Yoshina,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,51,647
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,101,Yes,No,HT7,HT7,Ace cafe  ,35,136,2,1,S16,S16,Cafe,Dining bar,SP190,SP190,3,128
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,102,Yes,No,HT722,HT722,clover  ,35,136,3,1,S2,S2,Dining bar,Italian,SP191,SP191,3,49
+4500,1500,Sanjo,CT24,CT24,Sanjo,3,103,Yes,Yes,HT745,HT745,gyuukushibunzou  ,35,136,3,1,S79,S79,Izakaya,Sumibiyaki,SP258,SP258,3,722
+2500,1250,Sanjo,CT24,CT24,Sanjo,3,104,Yes,No,HT75,HT75,Chizutakkarubikoshitsubaruvino  ,35,136,3,1,S16,S16,Izakaya,Dining bar,SP258,SP258,3,12
+5500,2500,Sanjo,CT24,CT24,Sanjo,3,105,Yes,No,HT77,HT77,Choushuuryourikyoumon  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,109
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,106,Yes,No,HT776,HT776,kushiyakimanten  ,35,136,3,1,S64,S64,YakitoriGrilledChicken,Kyoto Cuisine,SP232,SP232,3,5
+35009,3500,Sanjo,CT24,CT24,Sanjo,3,107,Yes,No,HT782,HT782,kyouryouriuryuu  ,35,136,3,1,S30,S30,Kaiseki Japanese,FuguBlowfish,SP243,SP243,4,347
+1500,3700,Sanjo,CT24,CT24,Sanjo,2,108,Yes,No,HT789,HT789,kyoutokushidokoroazumaya  ,35,136,3,1,S91,S91,YakitoriGrilledChicken,Izakaya,SP232,SP232,2,112
+3500,1500,Sanjo,CT24,CT24,Sanjo,3,109,Yes,Yes,HT797,HT797,mekishikandaininguabokado  ,35,136,4,1,S14,S14,Mexico cuisine,Cafe,SP236,SP236,3,550
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,110,Yes,No,HT800,HT800,miyazakikenhyuugashitsukadanoujou  ,35,136,4,1,S18,S18,Izakaya,Fowl,SP258,SP258,3,115
+4500,1250,Sanjo,CT24,CT24,Sanjo,51,111,Yes,No,HT803,HT803,motsunabekamehachi  ,35,136,3,1,S91,S91,Japanese,Izakaya,SP235,SP235,51,6
+3500,1500,Sanjo,CT24,CT24,Sanjo,2,112,Yes,No,HT819,HT819,nikuyanodaidokoro  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,2,116
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,113,Yes,Yes,HT827,HT827,oumigyuujukuseisute-kiichigo-kyu-roku  ,35,136,3,1,S47,S47,Steak,Yakiniku BBQ Beef,SP221,SP221,3,550
+4500,1250,Sanjo,CT24,CT24,Sanjo,3,114,Yes,Yes,HT832,HT832,pontochoutanrakuyatoriume  ,35,136,3,1,S91,S91,YakitoriGrilledChicken,Izakaya,SP232,SP232,3,14
+3500,3700,Sanjo,CT24,CT24,Sanjo,3,115,Yes,No,HT833,HT833,pontochouyakinikuyaruki  ,35,136,3,1,S43,S43,Yakiniku BBQ Beef,Bar,SP219,SP219,3,197
+3500,3700,Sanjo,CT24,CT24,Sanjo,3,116,Yes,No,HT845,HT845,shunsaibaruiberiko  ,35,136,3,1,S53,S53,Dining bar,Creative cuisine,SP191,SP191,3,485
+5500,1250,Sanjo,CT24,CT24,Sanjo,3,117,Yes,No,HT868,HT868,uotanafumibun  ,35,136,3,1,S64,S64,Kappo Japanese,Kyoto Cuisine,SP262,SP262,3,5
+6500,1500,Sanjo,CT24,CT24,Sanjo,53,118,Yes,No,HT869,HT869,wagyuuyakinikutoku  ,35,136,4,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,53,51
+2500,1250,Sanjo,CT24,CT24,Sanjo,2,119,Yes,No,HT87,HT87,Denen  ,35,136,3,1,S43,S43,Dining bar,Bar,SP191,SP191,3,2496
+3500,1250,Sanjo,CT24,CT24,Sanjo,3,120,Yes,No,HT88,HT88,Domadoma  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,24
+2500,3550,Sanjo,CT24,CT24,Sanjo,3,121,Yes,No,HT882,HT882,yakinikuyaruki  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,3,360
+3500,3700,Sanjo,CT24,CT24,Sanjo,3,122,Yes,No,HT884,HT884,yasaidainingukusushi  ,35,136,3,1,S91,S91,Vegetable dishes,Izakaya,SP261,SP261,3,224
+2500,3700,Sanjo,CT24,CT24,Sanjo,2,123,Yes,Yes,HT887,HT887,zensekikoshitsuizakayasakurazaka  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,2,300
+6500,2500,Gojo,CT25,CT25,Gojo,3,124,Yes,No,HT296,HT296,Kinugawa  ,35,136,3,1,S3,S3,Kappo Japanese,Shabu Shabu Japanese Steamboat,SP262,SP262,3,336
+5500,3550,Gojo,CT25,CT25,Gojo,57,125,Yes,Yes,HT50,HT50,Baruagiyao  ,35,136,3,1,S17,S17,Bar,Seafood,SP218,SP218,57,879
+12500,1250,Gojo,CT25,CT25,Gojo,3,126,Yes,No,HT636,HT636,Teppanryourihanaroku  ,35,136,3,1,S64,S64,Teppanyaki,Kyoto Cuisine,SP196,SP196,3,21
+3500,1250,Gojo,CT25,CT25,Gojo,3,127,Yes,No,HT712,HT712,barchetta  ,35,136,3,1,S55,S55,Italian,Wine bar,SP183,SP183,3,118
+12500,6500,Gojo,CT25,CT25,Gojo,4,128,Yes,No,HT718,HT718,chisouyouga  ,35,136,51,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,4,433
+4500,3700,Gojo,CT25,CT25,Gojo,3,129,Yes,No,HT838,HT838,sakesakanatanagokoro  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,429
+4500,1250,Gojo,CT25,CT25,Gojo,3,130,Yes,No,HT873,HT873,waintoonikudaisen  ,35,136,3,1,S47,S47,Italian,Yakiniku BBQ Beef,SP183,SP183,3,360
+4500,3550,Sai,CT26,CT26,Sai,4,131,Yes,No,HT163,HT163,HOMURA  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,4,558
+4500,3700,Sai,CT26,CT26,Sai,3,132,Yes,Yes,HT242,HT242,KORAN  ,35,136,3,1,S47,S47,Korean cuisine,Yakiniku BBQ Beef,SP263,SP263,3,550
+2500,3500,Sai,CT26,CT26,Sai,51,133,Yes,No,HT420,HT420,Mossannobetayaki  ,35,136,3,1,S93,S93,Okonomiyaki,Horumon BBQ Offel,SP209,SP209,51,2
+4500,1500,Sai,CT26,CT26,Sai,3,134,Yes,Yes,HT589,HT589,Sumibiyakinikugyuugyuutei  ,35,136,2,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,259
+3500,1250,Sai,CT26,CT26,Sai,3,135,Yes,No,HT609,HT609,Taishuunikubarujuu  ,35,136,3,1,S42,S42,Bar,Steak,SP218,SP218,3,229
+3500,3500,Sai,CT26,CT26,Sai,3,136,Yes,No,HT709,HT709,ajidokorosamon  ,35,136,3,1,S57,S57,Izakaya,Cuisine,SP258,SP258,3,379
+3500,3700,Demachiyanagi,CT27,CT27,Demachiyanagi,2,137,Yes,No,HT33,HT33,Ashuckurk  ,35,136,3,1,S43,S43,Bistro,Bar,SP259,SP259,2,659
+17500,35009,Demachiyanagi,CT27,CT27,Demachiyanagi,3,138,Yes,Yes,HT554,HT554,Shimogamosaryou  ,35,136,4,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,4,8
+5500,1500,Demachiyanagi,CT27,CT27,Demachiyanagi,3,139,Yes,No,HT641,HT641,Teramachiyoshikura  ,35,136,3,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,3,201
+2500,3700,Demachiyanagi,CT27,CT27,Demachiyanagi,2,140,Yes,No,HT834,HT834,rakuenzakayaannachuraru  ,35,136,3,1,S16,S16,Izakaya,Dining bar,SP258,SP258,2,360
+2500,1250,Kitano Hakubaicho,CT28,CT28,Kitano Hakubaicho,3,141,Yes,Yes,HT158,HT158,Gyouzamatsukichi  ,35,136,3,1,S91,S91,Dumplings,Izakaya,SP268,SP268,3,85
+6500,3500,Kitano Hakubaicho,CT28,CT28,Kitano Hakubaicho,3,142,Yes,No,HT317,HT317,Kurosuke  ,35,136,3,1,S36,S36,Tofu,Yuba,SP265,SP265,3,570
+4500,3700,Kitano Hakubaicho,CT28,CT28,Kitano Hakubaicho,52,143,Yes,Yes,HT73,HT73,Chiritorinabeiyama  ,35,136,3,1,S95,S95,Chiritori,Korean cuisine,SP215,SP215,52,21
+3500,3700,Kitano Hakubaicho,CT28,CT28,Kitano Hakubaicho,3,144,Yes,Yes,HT802,HT802,momojirouichiba  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,550
+3500,3700,Jingu Marutamachi,CT29,CT29,Jingu Marutamachi,3,145,Yes,Yes,HT209,HT209,Ilifune  ,35,136,3,1,S2,S2,Dining bar,Italian,SP191,SP191,3,722
+5500,2500,Jingu Marutamachi,CT29,CT29,Jingu Marutamachi,58,146,Yes,No,HT259,HT259,Kamogawatakashi  ,35,136,4,1,S65,S65,Yakiniku BBQ Beef,Kaiseki Japanese,SP219,SP219,59,160
+3500,2500,Jingu Marutamachi,CT29,CT29,Jingu Marutamachi,3,147,Yes,No,HT423,HT423,Nagagutsutei  ,35,136,2,1,S45,S45,Pasta,Pizza,SP212,SP212,2,535
+35009,1250,Jingu Marutamachi,CT29,CT29,Jingu Marutamachi,3,148,Yes,No,HT488,HT488,Rakuzenkakinuma  ,35,136,3,1,S65,S65,Kappo Japanese,Kaiseki Japanese,SP262,SP262,3,1298
+4500,2500,Jingu Marutamachi,CT29,CT29,Jingu Marutamachi,3,149,Yes,Yes,HT678,HT678,YURURI  ,35,136,3,1,S9,S9,Izakaya,Kamameshi Clay Pot Rice,SP258,SP258,3,755
+35009,1500,Jingu Marutamachi,CT29,CT29,Jingu Marutamachi,59,150,Yes,Yes,HT693,HT693,Yakinikuyoshimi  ,35,136,3,1,S42,S42,Yakiniku BBQ Beef,Steak,SP219,SP219,58,208
+2500,2500,Uzumasa Tenjingawa,CT3,CT3,Uzumasa Tenjingawa,3,151,Yes,No,HT114,HT114,Garejisankyukafe  ,35,136,2,1,S91,S91,Cafe,Izakaya,SP190,SP190,3,38
+3500,3500,Uzumasa Tenjingawa,CT3,CT3,Uzumasa Tenjingawa,3,152,Yes,Yes,HT610,HT610,Taishuusakabatenuzumasatenjingawaten  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,353
+1500,3500,Emmachi,CT30,CT30,Emmachi,3,153,Yes,No,HT183,HT183,Hisa  ,35,136,3,1,S40,S40,Champon Noodle,Ramen,SP200,SP200,3,12
+3500,3700,Emmachi,CT30,CT30,Emmachi,3,154,Yes,No,HT214,HT214,Iorisantouka  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,128
+2500,3500,Emmachi,CT30,CT30,Emmachi,3,155,Yes,No,HT74,HT74,Chishokufu  ,35,136,3,1,S25,S25,Chinese,Sichuan Cuisine,SP193,SP193,3,392
+3500,1250,Uji,CT31,CT31,Uji,3,156,Yes,No,HT226,HT226,Itoukyuuemon  ,35,136,58,1,S52,S52,Sweets,Japanese,SP234,SP234,58,113
+3500,1250,Uji,CT31,CT31,Uji,3,157,Yes,No,HT3,HT3,Aburaya  ,35,136,3,1,S34,S34,Izakaya,Kushi-age Fried Skewer,SP258,SP258,3,167
+1500,1250,Uji,CT31,CT31,Uji,3,158,Yes,No,HT347,HT347,Kyouryouriujigawaryokan  ,35,136,3,1,S15,S15,Ryokan,Chinese,SP195,SP195,3,68
+4500,1500,Uji,CT31,CT31,Uji,3,159,Yes,No,HT544,HT544,Satsumayakinikukurozakurakurozakura  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,659
+1500,3500,Uji,CT31,CT31,Uji,3,160,Yes,Yes,HT606,HT606,THE ROCKIN' HEARTS  ,35,136,3,1,S70,S70,Dining bar,Curry rice,SP191,SP191,3,237
+35009,3500,Uji,CT31,CT31,Uji,3,161,Yes,No,HT623,HT623,Tatsumiya  ,35,136,3,1,S6,S6,Kyoto Cuisine,Hot Pot,SP241,SP241,3,558
+3500,1500,Uji,CT31,CT31,Uji,2,162,Yes,No,HT662,HT662,Ujisoukokoro  ,35,136,3,1,S53,S53,Dining bar,Creative cuisine,SP191,SP191,3,44
+35009,3500,Uji,CT31,CT31,Uji,3,163,Yes,No,HT71,HT71,Chikurin  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,728
+1500,1500,Uji,CT31,CT31,Uji,3,164,Yes,No,HT865,HT865,tsujiriheehonten  ,35,136,54,1,S52,S52,Parfait,Japanese,SP205,SP205,54,5
+2500,3550,Mototanaka,CT32,CT32,Mototanaka,3,165,Yes,No,HT384,HT384,LOBUTA  ,35,136,3,1,S95,S95,Izakaya,Korean cuisine,SP258,SP258,3,435
+2500,3500,Mototanaka,CT32,CT32,Mototanaka,3,166,Yes,Yes,HT518,HT518,Ryuumon  ,35,136,3,1,S66,S66,Sichuan Cuisine,Dim sum,SP198,SP198,3,111
+5500,3500,Mototanaka,CT32,CT32,Mototanaka,2,167,Yes,Yes,HT545,HT545,Seichuuan  ,35,136,3,1,S23,S23,French,Western Food,SP208,SP208,3,40
+3500,3500,Mototanaka,CT32,CT32,Mototanaka,2,168,Yes,Yes,HT621,HT621,Taruhachi  ,35,136,4,1,S40,S40,Izakaya,Ramen,SP258,SP258,2,20
+3500,3500,Mototanaka,CT32,CT32,Mototanaka,3,169,Yes,No,HT854,HT854,takoyakimihashiya  ,35,136,4,1,S52,S52,Takoyaki,Japanese,SP247,SP247,3,334
+4500,2500,Myoshinji,CT33,CT33,Myoshinji,3,170,Yes,No,HT392,HT392,Manchou  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,270
+1500,3500,Kuzuha,CT34,CT34,Kuzuha,3,171,Yes,No,HT413,HT413,Miyakohanten  ,35,136,4,1,S40,S40,Chinese,Ramen,SP193,SP193,4,488
+4500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,172,Yes,No,HT106,HT106,Furenchibado  ,35,136,3,1,S92,S92,French,Bistro,SP208,SP208,3,170
+5500,3500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,51,173,Yes,No,HT112,HT112,Ganko  ,35,136,3,1,S3,S3,Kaiseki Japanese,Shabu Shabu Japanese Steamboat,SP243,SP243,52,67
+3500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,174,Yes,No,HT205,HT205,Ikedayahananomai  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,59
+3500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,4,175,Yes,No,HT213,HT213,Iori  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,4,247
+1500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,176,Yes,No,HT268,HT268,Kaosusupaisudaina,35,136,3,1,S16,S16,Curry,Dining bar,SP255,SP255,3,213
+3500,3500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,177,Yes,No,HT272,HT272,Karafuneyakohiten  ,35,136,51,1,S14,S14,Chinese,Cafe,SP193,SP193,52,1821
+2500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,178,Yes,No,HT284,HT284,Kerara  ,35,136,3,1,S60,S60,India cuisine,Indian curry,SP270,SP270,4,303
+3500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,179,Yes,No,HT309,HT309,Koshitsuyakinikugokkoya  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,3,631
+35009,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,4,180,Yes,No,HT31,HT31,Aritsune  ,35,136,3,1,S64,S64,Kappo Japanese,Kyoto Cuisine,SP262,SP262,4,39
+6500,2500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,181,Yes,No,HT345,HT345,Kyouryouritakeshimaichigo  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,190
+3500,3700,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,182,Yes,No,HT35,HT35,BAR-CERVECERIA xativa  ,35,136,3,1,S43,S43,Spain,Bar,SP220,SP220,3,1025
+4500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,183,Yes,No,HT385,HT385,LODGE  ,35,136,2,1,S91,S91,Steak,Izakaya,SP221,SP221,3,374
+6500,3500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,184,Yes,Yes,HT390,HT390,Mameyagenzou  ,35,136,3,1,S98,S98,Kyoto Cuisine,Tofu,SP241,SP241,3,21
+17500,35009,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,185,Yes,Yes,HT391,HT391,Man  ,35,136,3,1,S94,S94,Sushi,Kappo Japanese,SP267,SP267,3,244
+3500,3500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,186,Yes,Yes,HT396,HT396,Marugameseimen  ,35,136,3,1,S90,S90,Udon,Curry,SP242,SP242,3,53
+4500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,187,Yes,No,HT403,HT403,Membou  ,35,136,3,1,S50,S50,Kaiseki Japanese,Udon Suki,SP243,SP243,3,122
+2500,3500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,188,Yes,No,HT405,HT405,Mewaz cafe  ,35,136,3,1,S86,S86,Dining bar,Thailand cooking,SP191,SP191,3,37
+6500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,54,189,Yes,Yes,HT430,HT430,Nijoukiduki  ,35,136,55,1,S53,S53,Sushi,Creative cuisine,SP267,SP267,57,250
+6500,2500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,54,190,Yes,No,HT441,HT441,Norumandhi  ,35,136,4,1,S88,S88,French,Mediterranean,SP208,SP208,55,109
+3500,3700,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,191,Yes,No,HT442,HT442,Nosutarujia  ,35,136,3,1,S2,S2,Dining bar,Italian,SP191,SP191,3,190
+2500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,192,Yes,Yes,HT450,HT450,Okonomiyakitonchinkan  ,35,136,2,1,S63,S63,Okonomiyaki,Monjya yaki,SP209,SP209,3,613
+3500,3550,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,193,Yes,No,HT452,HT452,Old School wine and spirits  ,35,136,3,1,S43,S43,Dining bar,Bar,SP191,SP191,3,26
+1500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,194,Yes,No,HT459,HT459,Osakenobijutsukan  ,35,136,3,1,S16,S16,Bar,Dining bar,SP218,SP218,3,11
+3500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,195,Yes,No,HT466,HT466,Oyajinokura  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,336
+6500,3500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,4,196,Yes,No,HT469,HT469,PREGO TOKICHI  ,35,136,3,1,S79,S79,Italian,Sumibiyaki,SP183,SP183,4,213
+5500,3700,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,51,197,Yes,No,HT477,HT477,Poquito  ,35,136,3,1,S16,S16,Spain,Dining bar,SP220,SP220,51,546
+2500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,4,198,Yes,No,HT498,HT498,Rinku  ,35,136,4,1,S91,S91,Fowl,Izakaya,SP197,SP197,4,141
+5500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,199,Yes,No,HT507,HT507,Roko  ,35,136,3,1,S65,S65,Kappo Japanese,Kaiseki Japanese,SP262,SP262,4,98
+5500,3500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,5,200,Yes,No,HT520,HT520,Ryuunohige  ,35,136,54,1,S29,S29,Kyoto Cuisine,French,SP241,SP241,5,17
+6500,2500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,201,Yes,No,HT524,HT524,STRADA  ,35,136,2,1,S57,S57,Italian,Cuisine,SP183,SP183,2,538
+2500,3500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,5,202,Yes,Yes,HT528,HT528,Sajjoupakuchi  ,35,136,3,1,S91,S91,Thailand cooking,Izakaya,SP250,SP250,52,353
+12500,3700,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,51,203,Yes,No,HT542,HT542,Satsuki  ,35,136,3,1,S58,S58,Kyoto Cuisine,Kaiseki Traditional Japanese,SP241,SP241,51,213
+2500,3700,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,204,Yes,Yes,HT548,HT548,Setsugekka  ,35,136,3,1,S21,S21,Bar,Lounge,SP218,SP218,3,85
+4500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,205,Yes,No,HT549,HT549,Shaofeiyan  ,35,136,3,1,S15,S15,Chinese hot pot / fire pot,Chinese,SP245,SP245,3,229
+3500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,4,206,Yes,No,HT558,HT558,Shiunsen  ,35,136,52,1,S94,S94,Soba,Kappo Japanese,SP202,SP202,53,304
+1500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,53,207,Yes,No,HT580,HT580,Suiba  ,35,136,3,1,S16,S16,Stand Bar,Dining bar,SP217,SP217,55,7
+1500,3500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,208,Yes,No,HT626,HT626,Teinojikafe  ,35,136,55,1,S51,S51,Cafe,Coffee shoppe,SP190,SP190,55,9
+3500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,209,Yes,No,HT640,HT640,Teramachihambagugokurakutombo  ,35,136,3,1,S44,S44,Hamburger Steak,Western Cuisine,SP244,SP244,3,73
+3500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,210,Yes,No,HT644,HT644,Togiya  ,35,136,3,1,S15,S15,Izakaya,Chinese,SP258,SP258,3,8
+3500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,211,Yes,No,HT673,HT673,Wayang Bali  ,35,136,3,1,S52,S52,Indonesia cuisine,Japanese,SP257,SP257,3,464
+5500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,57,212,Yes,No,HT680,HT680,Yakinikudainingukinoe  ,35,136,51,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,58,1
+1500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,55,213,Yes,No,HT704,HT704,Yumeya  ,35,136,3,1,S89,S89,Okonomiyaki,Chow Mein Noodle,SP209,SP209,55,66
+5500,4500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,214,Yes,No,HT731,HT731,fujiyakyoushoku  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,372
+2500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,215,Yes,No,HT741,HT741,guramuromanthikkumairu-mu  ,35,136,3,1,S2,S2,Dining bar,Italian,SP191,SP191,3,15
+2500,3700,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,216,Yes,No,HT744,HT744,gyouzaba-anzukko  ,35,136,3,1,S15,S15,Dumplings,Chinese,SP268,SP268,3,350
+3500,3500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,217,Yes,No,HT759,HT759,kafeandodainingubambi  ,35,136,3,1,S14,S14,Italian,Cafe,SP183,SP183,3,220
+2500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,218,Yes,No,HT78,HT78,Daburin  ,35,136,2,1,S4,S4,Pub,Beer,SP188,SP188,3,290
+2500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,219,Yes,No,HT801,HT801,mo-shondaina  ,35,136,3,1,S80,S80,Cafe,Burger,SP190,SP190,3,430
+25500,1250,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,5,220,Yes,Yes,HT804,HT804,nihonryourisakuragawa  ,35,136,4,1,S94,S94,Kaiseki Japanese,Kappo Japanese,SP243,SP243,4,317
+3500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,221,Yes,No,HT808,HT808,nikubaruandohorumon2.76betaigu  ,35,136,3,1,S52,S52,Bar,Japanese,SP218,SP218,3,411
+4500,3700,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,222,Yes,No,HT844,HT844,shioriyaichie  ,35,136,3,1,S78,S78,Izakaya,Nihonshu Japanese Sake,SP258,SP258,3,488
+3500,3550,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,223,Yes,No,HT848,HT848,sumibiyakiyasaiyaoki  ,35,136,3,1,S91,S91,Tempura,Izakaya,SP264,SP264,3,335
+6500,3700,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,3,224,Yes,Yes,HT885,HT885,zasera-kyouto  ,35,136,3,1,S94,S94,Dining bar,Kappo Japanese,SP191,SP191,3,294
+4500,1500,Kyoto Shiyakusho Mae,CT35,CT35,Kyoto Shiyakusho Mae,58,225,Yes,No,HT97,HT97,FORTUNE GARDEN KYOTO  ,35,136,56,1,S44,S44,Bistro,Western Cuisine,SP259,SP259,59,17
+2500,3500,Saiin,CT36,CT36,Saiin,3,226,Yes,No,HT247,HT247,Kafemanowaru  ,35,136,3,1,S52,S52,Italian,Japanese,SP183,SP183,3,229
+3500,3700,Saiin,CT36,CT36,Saiin,3,227,Yes,No,HT254,HT254,Kaitoshirowainnobarukakimaru  ,35,136,3,1,S91,S91,Bar,Izakaya,SP218,SP218,3,5035
+4500,2500,Saiin,CT36,CT36,Saiin,2,228,Yes,Yes,HT258,HT258,Kameya  ,35,136,3,1,S30,S30,Crab,FuguBlowfish,SP246,SP246,3,211
+2500,3700,Saiin,CT36,CT36,Saiin,3,229,Yes,No,HT322,HT322,Kushikatsutanaka  ,35,136,3,1,S91,S91,Kushi-age Fried Skewer,Izakaya,SP207,SP207,3,115
+3500,1250,Saiin,CT36,CT36,Saiin,3,230,Yes,No,HT485,HT485,Rakudaya  ,35,136,3,1,S52,S52,Chinese,Japanese,SP193,SP193,3,67
+3500,1250,Saiin,CT36,CT36,Saiin,3,231,Yes,Yes,HT508,HT508,Rokurokuato  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,134
+3500,1250,Saiin,CT36,CT36,Saiin,3,232,Yes,No,HT51,HT51,Barubera  ,35,136,3,1,S32,S32,Italian,Pasta,SP183,SP183,3,22
+2500,1250,Saiin,CT36,CT36,Saiin,3,233,Yes,No,HT601,HT601,Sutekiandodainaburuba  ,35,136,3,1,S42,S42,Bar,Steak,SP218,SP218,3,166
+5500,1250,Saiin,CT36,CT36,Saiin,3,234,Yes,No,HT622,HT622,Tatsumi  ,35,136,3,1,S97,S97,Kappo Japanese,Sushi,SP262,SP262,3,58
+3500,1250,Saiin,CT36,CT36,Saiin,3,235,Yes,No,HT631,HT631,Tenjiyuen  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,100
+3500,1250,Saiin,CT36,CT36,Saiin,3,236,Yes,No,HT637,HT637,Teppansakuwan  ,35,136,3,1,S91,S91,Teppanyaki,Izakaya,SP196,SP196,3,46
+3500,1250,Saiin,CT36,CT36,Saiin,3,237,Yes,No,HT653,HT653,Toritoyudoufuizakayaaogiya  ,35,136,4,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,800
+5500,1250,Saiin,CT36,CT36,Saiin,2,238,Yes,Yes,HT681,HT681,Yakinikudaisen  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,2,25
+3500,1250,Saiin,CT36,CT36,Saiin,3,239,Yes,No,HT754,HT754,itariandainingutoreotto  ,35,136,3,1,S16,S16,Italian,Dining bar,SP183,SP183,3,29
+3500,3700,Saiin,CT36,CT36,Saiin,3,240,Yes,Yes,HT76,HT76,Chizutakkarubitonichinandorisachi  ,35,136,3,1,S43,S43,Izakaya,Bar,SP258,SP258,3,144
+3500,3700,Saiin,CT36,CT36,Saiin,3,241,Yes,No,HT794,HT794,kyouyasaitosousakuryouri2.76kaya  ,35,136,3,1,S81,S81,Izakaya,Dandan noodles,SP258,SP258,3,68
+4500,3700,Saiin,CT36,CT36,Saiin,3,242,Yes,No,HT80,HT80,Daikokuebisu  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,3,380
+2500,3550,Saiin,CT36,CT36,Saiin,2,243,Yes,No,HT881,HT881,yakinikuyaruki  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,2,660
+3500,3550,Keihan Yamashina,CT37,CT37,Keihan Yamashina,3,244,Yes,No,HT30,HT30,Arigatou  ,35,136,3,1,S47,S47,Izakaya,Yakiniku BBQ Beef,SP258,SP258,3,149
+4500,3300,Keihan Yamashina,CT37,CT37,Keihan Yamashina,2,245,Yes,Yes,HT34,HT34,Azuki  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,2,40
+3500,3700,Keihan Yamashina,CT37,CT37,Keihan Yamashina,3,246,Yes,No,HT373,HT373,Kyoutoyamanashiyakitorikanazawa  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,345
+5500,1250,Keihan Yamashina,CT37,CT37,Keihan Yamashina,3,247,Yes,Yes,HT4,HT4,Aburishibuya  ,35,136,3,1,S26,S26,Izakaya,Robatayaki,SP258,SP258,3,9
+2500,1250,Keihan Yamashina,CT37,CT37,Keihan Yamashina,3,248,Yes,No,HT431,HT431,Nikokubaru  ,35,136,3,1,S34,S34,Izakaya,Kushi-age Fried Skewer,SP258,SP258,3,68
+4500,3700,Keihan Yamashina,CT37,CT37,Keihan Yamashina,3,249,Yes,No,HT531,HT531,Sakanayariichi  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,114
+2500,2500,Keihan Yamashina,CT37,CT37,Keihan Yamashina,3,250,Yes,No,HT60,HT60,Buraitonkicchin  ,35,136,3,1,S44,S44,Buffet style,Western Cuisine,SP253,SP253,3,9
+3500,1250,Keihan Yamashina,CT37,CT37,Keihan Yamashina,3,251,Yes,No,HT676,HT676,YEBISU  ,35,136,3,1,S40,S40,Dandan noodles,Ramen,SP254,SP254,3,717
+2500,3700,Keihan Yamashina,CT37,CT37,Keihan Yamashina,2,252,Yes,Yes,HT81,HT81,Dainingunagomi  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,2,201
+3500,3550,Keihan Yamashina,CT37,CT37,Keihan Yamashina,2,253,Yes,No,HT888,HT888,zensekikoshitsuizakayataketorigoten  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,2,1141
+3500,1500,Keihan Yamashina,CT37,CT37,Keihan Yamashina,3,254,Yes,No,HT99,HT99,Fesshimon  ,35,136,3,1,S43,S43,Italian,Bar,SP183,SP183,3,8
+2500,1250,Rokujizo,CT38,CT38,Rokujizo,2,255,Yes,Yes,HT432,HT432,Nikujuuhachi  ,35,136,3,1,S15,S15,Yakiniku BBQ Beef,Chinese,SP219,SP219,2,223
+6500,3700,Rokujizo,CT38,CT38,Rokujizo,3,256,Yes,No,HT688,HT688,Yakinikusakayaisshin  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,3,51
+2500,3500,Fushimi Momoyama,CT39,CT39,Fushimi Momoyama,3,257,Yes,No,HT15,HT15,Ajoiichanchi  ,35,136,3,1,S14,S14,Dining bar,Cafe,SP191,SP191,3,728
+4500,1250,Fushimi Momoyama,CT39,CT39,Fushimi Momoyama,3,258,Yes,No,HT219,HT219,Ishise  ,35,136,3,1,S94,S94,Kyoto Cuisine,Kappo Japanese,SP241,SP241,3,618
+3500,3700,Fushimi Momoyama,CT39,CT39,Fushimi Momoyama,2,259,Yes,No,HT380,HT380,Kyuushuunecchuuya  ,35,136,3,1,S100,S100,Izakaya,Dumplings,SP258,SP258,2,474
+1500,1500,Fushimi Momoyama,CT39,CT39,Fushimi Momoyama,3,260,Yes,No,HT539,HT539,Saradanomisesancho  ,35,136,3,1,S22,S22,Hamburger Steak,Western ,SP244,SP244,3,0
+3500,1500,Fushimi Momoyama,CT39,CT39,Fushimi Momoyama,3,261,Yes,No,HT659,HT659,Tsukinokurabito  ,35,136,3,1,S16,S16,Kappo Japanese,Dining bar,SP262,SP262,5,153
+3500,1500,Fushimi Momoyama,CT39,CT39,Fushimi Momoyama,3,262,Yes,No,HT730,HT730,fu-zuba-shioriya  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,543
+3500,3700,Fushimi Momoyama,CT39,CT39,Fushimi Momoyama,3,263,Yes,No,HT806,HT806,nihonshusumiyakiyaiki  ,35,136,2,1,S94,S94,Izakaya,Kappo Japanese,SP258,SP258,3,51
+3500,1250,Fushimi Momoyama,CT39,CT39,Fushimi Momoyama,3,264,Yes,Yes,HT828,HT828,oushuuizakayabiruzu  ,35,136,2,1,S45,S45,Izakaya,Pizza,SP258,SP258,3,8
+4500,2500,Fushimi Momoyama,CT39,CT39,Fushimi Momoyama,3,265,Yes,No,HT846,HT846,shunsairyoushin  ,35,136,4,1,S91,S91,Seafood,Izakaya,SP194,SP194,3,5
+4500,1500,Fushimi Momoyama,CT39,CT39,Fushimi Momoyama,2,266,Yes,No,HT91,HT91,Enrian  ,35,136,3,1,S52,S52,Creative cuisine,Japanese,SP239,SP239,2,5
+3500,3500,Chushojima,CT4,CT4,Chushojima,3,267,Yes,No,HT635,HT635,Teppankushiyakisakura  ,35,136,3,1,S20,S20,Izakaya,Teppanyaki,SP258,SP258,3,264
+3500,3500,Imadegawa,CT40,CT40,Imadegawa,3,268,Yes,No,HT20,HT20,Amakudoparadhikambaikan  ,35,136,3,1,S2,S2,Cafe,Italian,SP190,SP190,3,538
+3500,1500,Imadegawa,CT40,CT40,Imadegawa,3,269,Yes,No,HT48,HT48,Bar PLAYGROUND  ,35,136,3,1,S55,S55,Bar,Wine bar,SP218,SP218,3,9
+3500,3500,Imadegawa,CT40,CT40,Imadegawa,3,270,Yes,No,HT491,HT491,Ramenhikosaku  ,35,136,3,1,S100,S100,Ramen,Dumplings,SP216,SP216,51,83
+3500,3500,Imadegawa,CT40,CT40,Imadegawa,3,271,Yes,Yes,HT620,HT620,Tarou  ,35,136,3,1,S17,S17,Kappo Japanese,Seafood,SP262,SP262,3,20
+3500,3500,Imadegawa,CT40,CT40,Imadegawa,3,272,Yes,No,HT707,HT707,Zekuu  ,35,136,3,1,S87,S87,Ramen,Boneless deep-fried chicken,SP216,SP216,3,57
+3500,1250,Kuramaguchi,CT41,CT41,Kuramaguchi,3,273,Yes,No,HT149,HT149,Gokyou  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,227
+4500,3700,Kuramaguchi,CT41,CT41,Kuramaguchi,3,274,Yes,No,HT616,HT616,Taketorineo  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,12
+3500,1250,Nijo,CT42,CT42,Nijo,3,275,Yes,No,HT113,HT113,Gansochikaranikumiyoshi  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,3,264
+2500,3500,Nijo,CT42,CT42,Nijo,3,276,Yes,No,HT154,HT154,Gurugurudon  ,35,136,3,1,S20,S20,Okonomiyaki,Teppanyaki,SP209,SP209,3,57
+1500,1500,Nijo,CT42,CT42,Nijo,3,277,Yes,No,HT66,HT66,Cafe Lavender  ,35,136,3,1,S91,S91,Buffet style,Izakaya,SP253,SP253,3,11
+3500,1250,Nijo,CT42,CT42,Nijo,4,278,Yes,No,HT763,HT763,kaisembarukamebarueito  ,35,136,3,1,S55,S55,Bar,Wine bar,SP218,SP218,4,487
+3500,1250,Nijo,CT42,CT42,Nijo,3,279,Yes,No,HT842,HT842,shikimanzenha2.76ha2.76  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,29
+3500,3550,Shijo,CT43,CT43,Shijo,3,280,Yes,No,HT108,HT108,Furenchimanjunia  ,35,136,3,1,S17,S17,Bistro,Seafood,SP259,SP259,3,332
+4500,3500,Shijo,CT43,CT43,Shijo,3,281,Yes,No,HT122,HT122,Ginzaraion  ,35,136,3,1,S4,S4,Dining bar,Beer,SP191,SP191,3,49
+3500,3700,Shijo,CT43,CT43,Shijo,3,282,Yes,No,HT152,HT152,Gounotora  ,35,136,3,1,S78,S78,Izakaya,Nihonshu Japanese Sake,SP258,SP258,3,621
+5500,1250,Shijo,CT43,CT43,Shijo,3,283,Yes,No,HT160,HT160,Gyuurakutei  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,579
+4500,1250,Shijo,CT43,CT43,Shijo,3,284,Yes,No,HT162,HT162,Gyuuzen  ,35,136,3,1,S31,S31,Shabu Shabu Japanese Steamboat,Sukiyaki,SP186,SP186,3,45
+4500,1250,Shijo,CT43,CT43,Shijo,51,285,Yes,Yes,HT176,HT176,Hayashi  ,35,136,3,1,S47,S47,Horumon BBQ Offel,Yakiniku BBQ Beef,SP260,SP260,51,330
+12500,5500,Shijo,CT43,CT43,Shijo,3,286,Yes,Yes,HT189,HT189,Houen  ,35,136,2,1,S15,S15,Teppanyaki,Chinese,SP196,SP196,3,489
+4500,1250,Shijo,CT43,CT43,Shijo,3,287,Yes,Yes,HT200,HT200,Ichifuji  ,35,136,3,1,S94,S94,Izakaya,Kappo Japanese,SP258,SP258,3,8
+3500,3300,Shijo,CT43,CT43,Shijo,4,288,Yes,No,HT207,HT207,Ikkakujuu  ,35,136,2,1,S20,S20,Izakaya,Teppanyaki,SP258,SP258,4,5
+4500,1250,Shijo,CT43,CT43,Shijo,52,289,Yes,No,HT217,HT217,Irujeko  ,35,136,3,1,S32,S32,Italian,Pasta,SP183,SP183,52,35
+3500,1250,Shijo,CT43,CT43,Shijo,3,290,Yes,No,HT266,HT266,Kankokusakuratei  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,3,2
+3500,1250,Shijo,CT43,CT43,Shijo,5,291,Yes,No,HT281,HT281,Kemuri  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,5,340
+1500,1500,Shijo,CT43,CT43,Shijo,3,292,Yes,Yes,HT292,HT292,Kimukatsu  ,35,136,3,1,S12,S12,Tonkatsu (Pork cutlet),Sandwich,SP240,SP240,3,365
+3500,3300,Shijo,CT43,CT43,Shijo,3,293,Yes,No,HT320,HT320,Kushidainigusumiyakiromanya  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,24
+4500,1500,Shijo,CT43,CT43,Shijo,3,294,Yes,Yes,HT343,HT343,Kyounozenkuruma  ,35,136,54,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,52,30
+3500,2500,Shijo,CT43,CT43,Shijo,3,295,Yes,No,HT368,HT368,Kyoutosakagurakan  ,35,136,4,1,S43,S43,Izakaya,Bar,SP258,SP258,4,256
+4500,3700,Shijo,CT43,CT43,Shijo,3,296,Yes,No,HT386,HT386,LOTUS  ,35,136,3,1,S91,S91,Italian,Izakaya,SP183,SP183,3,435
+3500,3500,Shijo,CT43,CT43,Shijo,4,297,Yes,No,HT388,HT388,Maboroshinochuukasobakatouyashijounibojirou  ,35,136,3,1,S15,S15,Ramen,Chinese,SP216,SP216,51,12
+2500,3500,Shijo,CT43,CT43,Shijo,51,298,Yes,No,HT39,HT39,BISTRO BAR A VIN  C  ,35,136,3,1,S17,S17,Bistro,Seafood,SP259,SP259,51,192
+3500,3500,Shijo,CT43,CT43,Shijo,3,299,Yes,No,HT394,HT394,Maribu  ,35,136,3,1,S43,S43,Dining bar,Bar,SP191,SP191,3,538
+3500,3500,Shijo,CT43,CT43,Shijo,3,300,Yes,Yes,HT410,HT410,Minamiyakankokushokudou  ,35,136,3,1,S61,S61,Korean cuisine,Korean hot pot,SP263,SP263,3,9
+6500,3500,Shijo,CT43,CT43,Shijo,3,301,Yes,No,HT425,HT425,Nagomijun  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,66
+12500,1500,Shijo,CT43,CT43,Shijo,4,302,Yes,No,HT455,HT455,Orudohonkonresutorankyouto  ,35,136,4,1,S48,S48,Chinese,Cantonese Cuisine,SP193,SP193,4,100
+6500,1500,Shijo,CT43,CT43,Shijo,52,303,Yes,No,HT462,HT462,Osuteriakochinerra  ,35,136,3,1,S55,S55,Italian,Wine bar,SP183,SP183,53,380
+4500,3500,Shijo,CT43,CT43,Shijo,3,304,Yes,No,HT465,HT465,Oushokuyakappa  ,35,136,3,1,S43,S43,Italian,Bar,SP183,SP183,3,287
+2500,1500,Shijo,CT43,CT43,Shijo,5,305,Yes,No,HT510,HT510,Roti Chicken&Jackie Tacos  ,35,136,52,1,S43,S43,Mexico cuisine,Bar,SP236,SP236,53,160
+3500,1250,Shijo,CT43,CT43,Shijo,5,306,Yes,Yes,HT53,HT53,Bejitejiya  ,35,136,3,1,S47,S47,Korean cuisine,Yakiniku BBQ Beef,SP263,SP263,5,125
+3500,1500,Shijo,CT43,CT43,Shijo,3,307,Yes,No,HT534,HT534,Sala Suite Caffe Rucola   ,35,136,4,1,S14,S14,Italian,Cafe,SP183,SP183,3,6
+2500,3700,Shijo,CT43,CT43,Shijo,2,308,Yes,No,HT535,HT535,Sandaimetorimero  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,2,353
+2500,3550,Shijo,CT43,CT43,Shijo,3,309,Yes,No,HT538,HT538,Sara Sara  ,35,136,3,1,S100,S100,Izakaya,Dumplings,SP258,SP258,3,190
+4500,1500,Shijo,CT43,CT43,Shijo,3,310,Yes,No,HT567,HT567,Shunsaitempuraarima  ,35,136,3,1,S94,S94,Fried Foods,Kappo Japanese,SP203,SP203,4,823
+5500,1500,Shijo,CT43,CT43,Shijo,3,311,Yes,No,HT569,HT569,Shusaishokubouichi  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,4,136
+2500,3550,Shijo,CT43,CT43,Shijo,3,312,Yes,No,HT572,HT572,SinSin  ,35,136,3,1,S15,S15,Bar,Chinese,SP218,SP218,3,465
+4500,3700,Shijo,CT43,CT43,Shijo,2,313,Yes,No,HT573,HT573,Sorekaraayanokouji  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,2,355
+4500,3700,Shijo,CT43,CT43,Shijo,55,314,Yes,No,HT574,HT574,Sou  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,55,67
+3500,1250,Shijo,CT43,CT43,Shijo,3,315,Yes,No,HT587,HT587,Sumibirobataikoru  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,2
+2500,1500,Shijo,CT43,CT43,Shijo,3,316,Yes,Yes,HT605,HT605,THE BUFFET STYLE SARA  ,35,136,3,1,S53,S53,Buffet style,Creative cuisine,SP253,SP253,3,25
+3500,3700,Shijo,CT43,CT43,Shijo,3,317,Yes,No,HT617,HT617,Takishokudou  ,35,136,3,1,S91,S91,Dining bar,Izakaya,SP191,SP191,3,26
+4500,1500,Shijo,CT43,CT43,Shijo,3,318,Yes,Yes,HT658,HT658,Tsukihikarasuma  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,3,9
+3500,3700,Shijo,CT43,CT43,Shijo,53,319,Yes,No,HT70,HT70,Charcoal  ,35,136,3,1,S43,S43,Italian,Bar,SP183,SP183,53,647
+3500,3500,Shijo,CT43,CT43,Shijo,4,320,Yes,No,HT702,HT702,Yukari  ,35,136,3,1,S91,S91,Chinese,Izakaya,SP193,SP193,3,25
+3500,3700,Shijo,CT43,CT43,Shijo,4,321,Yes,No,HT711,HT711,arashiyamakushibun  ,35,136,3,1,S91,S91,Kushi-age Fried Skewer,Izakaya,SP207,SP207,4,118
+3500,1250,Shijo,CT43,CT43,Shijo,3,322,Yes,No,HT713,HT713,bejo-tamucho  ,35,136,3,1,S91,S91,Spain,Izakaya,SP220,SP220,3,535
+3500,3500,Shijo,CT43,CT43,Shijo,3,323,Yes,No,HT790,HT790,kyoutoteppantachibana,35,136,3,1,S35,S35,Teppanyaki,Okonomiyaki,SP196,SP196,3,37
+3500,1250,Shijo,CT43,CT43,Shijo,3,324,Yes,No,HT807,HT807,nihonshutoobanzainokyousakabamitoki  ,35,136,4,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,9
+4500,1500,Shijo,CT43,CT43,Shijo,3,325,Yes,No,HT829,HT829,pasutakorekushonandoba-dougetsuneo  ,35,136,52,1,S32,S32,Izakaya,Pasta,SP258,SP258,3,112
+2500,3500,Shijo,CT43,CT43,Shijo,4,326,Yes,No,HT841,HT841,shijoupakuchi-  ,35,136,3,1,S91,S91,Thailand cooking,Izakaya,SP250,SP250,3,380
+4500,3300,Shijo,CT43,CT43,Shijo,2,327,Yes,No,HT843,HT843,shioriya  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,1
+3500,1250,Shijo,CT43,CT43,Shijo,3,328,Yes,No,HT853,HT853,takaradoukarasuma  ,35,136,3,1,S31,S31,Izakaya,Sukiyaki,SP258,SP258,3,15
+3500,3550,Shijo,CT43,CT43,Shijo,3,329,Yes,Yes,HT860,HT860,tonkotsunabetogyouzaenraku  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,111
+5500,3500,Shijo,CT43,CT43,Shijo,2,330,Yes,Yes,HT863,HT863,tounyuutonshabutoratarou  ,35,136,3,1,S3,S3,Kaiseki Japanese,Shabu Shabu Japanese Steamboat,SP243,SP243,2,125
+4500,2500,Shijo,CT43,CT43,Shijo,51,331,Yes,No,HT870,HT870,wainandooyasaibarubejibaru  ,35,136,4,1,S55,S55,Italian,Wine bar,SP183,SP183,51,11
+2500,1250,Shijo,CT43,CT43,Shijo,4,332,Yes,No,HT883,HT883,yakitorisutandosakabakadofuku  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,4,112
+5500,2500,Shijo,CT43,CT43,Shijo,3,333,Yes,No,HT96,HT96,Erushimmachi  ,35,136,3,1,S2,S2,French,Italian,SP208,SP208,3,335
+6500,1500,Higashiyama,CT44,CT44,Higashiyama,3,334,Yes,No,HT128,HT128,Gionemon  ,35,136,4,1,S94,S94,Sushi,Kappo Japanese,SP267,SP267,3,227
+4500,1500,Higashiyama,CT44,CT44,Higashiyama,3,335,Yes,No,HT142,HT142,Giwommorikou  ,35,136,3,1,S66,S66,Cantonese Cuisine,Dim sum,SP228,SP228,5,29
+6500,3500,Higashiyama,CT44,CT44,Higashiyama,3,336,Yes,No,HT221,HT221,Isobe  ,35,136,2,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,3,532
+6500,3500,Higashiyama,CT44,CT44,Higashiyama,3,337,Yes,No,HT278,HT278,Kasuian  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,618
+12500,5500,Higashiyama,CT44,CT44,Higashiyama,3,338,Yes,Yes,HT370,HT370,Kyoutotempuraendou  ,35,136,59,1,S65,S65,Tempura,Kaiseki Japanese,SP264,SP264,55,7
+3500,3500,Higashiyama,CT44,CT44,Higashiyama,2,339,Yes,No,HT449,HT449,Occobe.  ,35,136,2,1,S32,S32,Italian,Pasta,SP183,SP183,2,520
+3500,3500,Higashiyama,CT44,CT44,Higashiyama,3,340,Yes,Yes,HT494,HT494,Rengetsudiya  ,35,136,3,1,S36,S36,Tofu,Yuba,SP265,SP265,3,134
+2500,3500,Higashiyama,CT44,CT44,Higashiyama,3,341,Yes,Yes,HT517,HT517,Ryuumon  ,35,136,3,1,S25,S25,Chinese,Sichuan Cuisine,SP193,SP193,3,8
+2500,1250,Shijo Omiya,CT45,CT45,Shijo Omiya,3,342,Yes,No,HT233,HT233,Izakayashinoomiya  ,35,136,3,1,S34,S34,Izakaya,Kushi-age Fried Skewer,SP258,SP258,3,9
+3500,3700,Shijo Omiya,CT45,CT45,Shijo Omiya,3,343,Yes,No,HT408,HT408,Miho  ,35,136,3,1,S57,S57,Izakaya,Cuisine,SP258,SP258,3,83
+2500,3700,Shijo Omiya,CT45,CT45,Shijo Omiya,3,344,Yes,Yes,HT536,HT536,Sandaimetorimero  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,53
+1500,3500,Shijo Omiya,CT45,CT45,Shijo Omiya,3,345,Yes,Yes,HT661,HT661,Tsushima  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,5,317
+3500,3500,Shijo Omiya,CT45,CT45,Shijo Omiya,3,346,Yes,Yes,HT684,HT684,Yakinikuhorumongyuuteruryourianiki  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,8
+3500,3700,Shijo Omiya,CT45,CT45,Shijo Omiya,3,347,Yes,No,HT748,HT748,hokkorisakabanagomiya  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,380
+5500,1500,Shijo Omiya,CT45,CT45,Shijo Omiya,4,348,Yes,No,HT758,HT758,jukuseiyakinikupondo  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,4,464
+3500,3700,Chayama,CT46,CT46,Chayama,3,349,Yes,No,HT685,HT685,Yakinikuichiba  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,289
+4500,1500,Higashi Maizuru,CT47,CT47,Higashi Maizuru,3,350,Yes,No,HT180,HT180,Himiko  ,35,135,4,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,149
+3500,1250,Higashi Maizuru,CT47,CT47,Higashi Maizuru,3,351,Yes,No,HT5,HT5,Aburiya  ,35,135,4,1,S24,S24,Izakaya,Oden,SP258,SP258,3,199
+3500,3550,Higashi Maizuru,CT47,CT47,Higashi Maizuru,3,352,Yes,No,HT79,HT79,Daichinokura  ,35,135,3,1,S15,S15,Izakaya,Chinese,SP258,SP258,3,235
+3500,3700,Higashi Maizuru,CT47,CT47,Higashi Maizuru,3,353,Yes,Yes,HT874,HT874,yakinikuajidouraku  ,35,135,3,1,S17,S17,Yakiniku BBQ Beef,Seafood,SP219,SP219,3,223
+2500,3500,Katsuragawa,CT48,CT48,Katsuragawa,3,354,Yes,No,HT36,HT36,BARVIDA  ,35,136,3,1,S20,S20,Dining bar,Teppanyaki,SP191,SP191,3,253
+1500,3500,Katsuragawa,CT48,CT48,Katsuragawa,3,355,Yes,No,HT40,HT40,Bairan  ,35,136,3,1,S66,S66,Chinese,Dim sum,SP193,SP193,3,136
+5500,3500,Katsuragawa,CT48,CT48,Katsuragawa,3,356,Yes,No,HT628,HT628,Tempurakawatatsu  ,35,136,4,1,S65,S65,Tempura,Kaiseki Japanese,SP264,SP264,56,214
+3500,2500,Shugakuin,CT49,CT49,Shugakuin,3,357,Yes,No,HT24,HT24,Apikaruinkyouto  ,35,136,3,1,S65,S65,Ryokan,Kaiseki Japanese,SP195,SP195,3,6
+6500,3500,Shugakuin,CT49,CT49,Shugakuin,3,358,Yes,No,HT241,HT241,KITAYAMA MONOLITH  ,35,136,3,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,3,24
+12500,4500,Shugakuin,CT49,CT49,Shugakuin,54,359,Yes,No,HT694,HT694,Yamabanaheihachidiya  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,56,113
+4500,1250,Kitaoji,CT5,CT5,Kitaoji,3,360,Yes,No,HT318,HT318,Kushiageadachi  ,35,136,3,1,S91,S91,Kushi-age Fried Skewer,Izakaya,SP207,SP207,3,1025
+3500,1250,Kitaoji,CT5,CT5,Kitaoji,3,361,Yes,No,HT406,HT406,Mi2.76miyawagyuudou  ,35,136,4,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,59
+3500,1250,Kitaoji,CT5,CT5,Kitaoji,2,362,Yes,No,HT551,HT551,Shichirinya  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,2,253
+35009,5500,Kitaoji,CT5,CT5,Kitaoji,3,363,Yes,No,HT565,HT565,Shunsaifujii  ,35,136,3,1,S65,S65,Kappo Japanese,Kaiseki Japanese,SP262,SP262,3,166
+25500,35009,Kitaoji,CT5,CT5,Kitaoji,58,364,Yes,Yes,HT598,HT598,Sushikawano  ,35,136,59,1,S17,S17,Sushi,Seafood,SP267,SP267,59,300
+2500,1250,Kitaoji,CT5,CT5,Kitaoji,2,365,Yes,No,HT785,HT785,kyoutoebisuya  ,35,136,4,1,S24,S24,Izakaya,Oden,SP258,SP258,2,36
+2500,1250,Arashiyama,CT50,CT50,Arashiyama,3,366,Yes,No,HT156,HT156,Gyaatei  ,35,136,51,1,S97,S97,Buffet style,Sushi,SP253,SP253,51,116
+3500,3500,Arashiyama,CT50,CT50,Arashiyama,2,367,Yes,No,HT23,HT23,Anju  ,35,136,2,1,S36,S36,Tofu,Yuba,SP265,SP265,2,25
+2500,1500,Arashiyama,CT50,CT50,Arashiyama,3,368,Yes,Yes,HT26,HT26,Arashiyamakohakudou  ,35,136,3,1,S14,S14,French,Cafe,SP208,SP208,3,144
+12500,5500,Arashiyama,CT50,CT50,Arashiyama,4,369,Yes,No,HT27,HT27,Arashiyamamitate  ,35,136,4,1,S64,S64,French,Kyoto Cuisine,SP208,SP208,4,287
+35009,5500,Arashiyama,CT50,CT50,Arashiyama,3,370,Yes,Yes,HT28,HT28,Arashiyamataniguchi  ,35,136,3,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,3,849
+3500,1250,Arashiyama,CT50,CT50,Arashiyama,5,371,Yes,Yes,HT525,HT525,Sagano  ,35,136,57,1,S36,S36,Tofu,Yuba,SP265,SP265,58,722
+2500,3550,Arashiyama,CT50,CT50,Arashiyama,3,372,Yes,No,HT541,HT541,Saryouhassui  ,35,136,51,1,S59,S59,Cafe,Sweets,SP190,SP190,51,96
+3500,3500,Arashiyama,CT50,CT50,Arashiyama,3,373,Yes,No,HT701,HT701,Yudoufutakemura  ,35,136,52,1,S36,S36,Tofu,Yuba,SP265,SP265,5,8
+6500,3500,Arashiyama,CT50,CT50,Arashiyama,4,374,Yes,No,HT783,HT783,kyoutoarashiyamagoseiyuunoyadoranzan  ,35,136,3,1,S2,S2,Other,Italian,SP224,SP224,4,7
+3500,1250,Kujo,CT51,CT51,Kujo,2,375,Yes,No,HT294,HT294,Kinnotori  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,2,160
+2500,3300,Kujo,CT51,CT51,Kujo,3,376,Yes,No,HT331,HT331,Kyouhorumonhana,35,136,3,1,S93,S93,Izakaya,Horumon BBQ Offel,SP258,SP258,3,12
+5500,3550,Kujo,CT51,CT51,Kujo,3,377,Yes,No,HT571,HT571,Shuuhou  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,303
+2500,1250,Kujo,CT51,CT51,Kujo,3,378,Yes,No,HT612,HT612,Takaraya  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,2
+3500,1250,Kujo,CT51,CT51,Kujo,3,379,Yes,No,HT780,HT780,kyounosozaiyatoku  ,35,136,3,1,S16,S16,Izakaya,Dining bar,SP258,SP258,3,37
+3500,1500,Ogura,CT52,CT52,Ogura,3,380,Yes,No,HT256,HT256,Kaiuntei  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,3,458
+3500,1500,Ogura,CT52,CT52,Ogura,3,381,Yes,Yes,HT256,HT256,Kaiuntei  ,35,136,3,1,S47,S47,Korean cuisine,Yakiniku BBQ Beef,SP263,SP263,3,49
+3500,1250,Ogura,CT52,CT52,Ogura,3,382,Yes,No,HT526,HT526,Saikouchou  ,35,136,3,1,S91,S91,YakitoriGrilledChicken,Izakaya,SP232,SP232,3,439
+3500,3500,Ogura,CT52,CT52,Ogura,3,383,Yes,Yes,HT652,HT652,Torishinoguraten  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,650
+4500,1250,Kyotanabe,CT53,CT53,Kyotanabe,5,384,Yes,Yes,HT202,HT202,Ichiyoshi  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,5,5
+2500,3500,Fukuchiyama,CT54,CT54,Fukuchiyama,3,385,Yes,Yes,HT669,HT669,Waraku  ,35,135,2,1,S65,S65,Izakaya,Kaiseki Japanese,SP258,SP258,2,550
+5500,2500,Nijojo Mae,CT55,CT55,Nijojo Mae,3,386,Yes,No,HT2,HT2,ANAGOYA NORESORE  ,35,136,55,1,S17,S17,Izakaya,Seafood,SP258,SP258,5,392
+4500,3700,Nijojo Mae,CT55,CT55,Nijojo Mae,3,387,Yes,No,HT208,HT208,Ikkon  ,35,136,3,1,S54,S54,Kappo Japanese,YakitoriGrilledChicken,SP262,SP262,3,39
+6500,3500,Nijojo Mae,CT55,CT55,Nijojo Mae,4,388,Yes,No,HT275,HT275,Karin  ,35,136,51,1,S81,S81,Chinese,Dandan noodles,SP193,SP193,51,207
+4500,2500,Nijojo Mae,CT55,CT55,Nijojo Mae,3,389,Yes,No,HT305,HT305,Koji  ,35,136,3,1,S84,S84,Western Cuisine,Buffet style,SP222,SP222,4,631
+4500,1250,Nijojo Mae,CT55,CT55,Nijojo Mae,3,390,Yes,No,HT379,HT379,Kyouzakanafukuya  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,26
+35009,3500,Nijojo Mae,CT55,CT55,Nijojo Mae,3,391,Yes,Yes,HT429,HT429,Nijou  ,35,136,3,1,S42,S42,Teppanyaki,Steak,SP196,SP196,3,19
+35009,2500,Nijojo Mae,CT55,CT55,Nijojo Mae,3,392,Yes,No,HT511,HT511,Rozurumu  ,35,136,3,1,S44,S44,French,Western Cuisine,SP208,SP208,3,161
+35009,3500,Nijojo Mae,CT55,CT55,Nijojo Mae,3,393,Yes,No,HT665,HT665,Unkai  ,35,136,3,1,S97,S97,Kaiseki Japanese,Sushi,SP243,SP243,3,25
+5500,5500,Nijojo Mae,CT55,CT55,Nijojo Mae,54,394,Yes,No,HT672,HT672,Watanabe  ,35,136,3,1,S29,S29,Beef dishes,French,SP210,SP210,54,10
+1500,1500,Nijojo Mae,CT55,CT55,Nijojo Mae,3,395,Yes,No,HT703,HT703,Yukinoshita  ,35,136,58,1,S15,S15,Pancake,Chinese,SP187,SP187,58,543
+4500,3300,Nijojo Mae,CT55,CT55,Nijojo Mae,3,396,Yes,No,HT757,HT757,jikidoukagura  ,35,136,3,1,S91,S91,Kappo Japanese,Izakaya,SP262,SP262,3,24
+35009,3700,Fujinomori,CT56,CT56,Fujinomori,3,397,Yes,No,HT216,HT216,Ipponyari  ,35,136,3,1,S94,S94,FuguBlowfish,Kappo Japanese,SP214,SP214,3,430
+2500,1250,Fujinomori,CT56,CT56,Fujinomori,2,398,Yes,No,HT740,HT740,gochisouizakayaippaiippai  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,2,30
+2500,1250,Shichijo,CT57,CT57,Shichijo,3,399,Yes,No,HT10,HT10,Aiemuo  ,35,136,3,1,S16,S16,Pizza,Dining bar,SP225,SP225,3,115
+4500,1250,Shichijo,CT57,CT57,Shichijo,3,400,Yes,No,HT16,HT16,Akasaki  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,112
+2500,1500,Shichijo,CT57,CT57,Shichijo,52,401,Yes,No,HT293,HT293,Kinkao  ,35,136,57,1,S82,S82,Thailand cooking,Thai Curry,SP250,SP250,55,1
+4500,1250,Shichijo,CT57,CT57,Shichijo,3,402,Yes,No,HT364,HT364,Kyoutonanajouyakinikusakabayamadaruma  ,35,136,4,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,496
+3500,1500,Shichijo,CT57,CT57,Shichijo,3,403,Yes,No,HT436,HT436,Nikuyasuzu  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,44
+4500,3700,Shichijo,CT57,CT57,Shichijo,3,404,Yes,Yes,HT576,HT576,Sousakukoshitsuizakayasugiurakyoutoekimaeshichijouten,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,142
+5500,2500,Shichijo,CT57,CT57,Shichijo,55,405,Yes,No,HT864,HT864,trattoria sette  ,35,136,52,1,S45,S45,Italian,Pizza,SP183,SP183,57,1025
+2500,3500,Takeda,CT58,CT58,Takeda,3,406,Yes,No,HT234,HT234,Jou2.76nen  ,35,136,3,1,S13,S13,Chinese,Bento Lunch box,SP193,SP193,3,8
+3500,1500,Narayama,CT59,CT59,Narayama,3,407,Yes,No,HT646,HT646,Toretatedaininguyagyuu  ,35,136,3,1,S91,S91,Kaiseki Japanese,Izakaya,SP243,SP243,4,30
+25500,12500,Demachiya2.76gi,CT6,CT6,Demachiya2.76gi,4,408,Yes,No,HT286,HT286,Kichisen  ,35,136,4,1,S52,S52,Kaiseki Japanese,Japanese,SP243,SP243,4,458
+2500,3700,Demachiya2.76gi,CT6,CT6,Demachiya2.76gi,3,409,Yes,No,HT415,HT415,Momojirou  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,520
+1500,3500,Demachiya2.76gi,CT6,CT6,Demachiya2.76gi,2,410,Yes,No,HT499,HT499,Rinya  ,35,136,3,1,S14,S14,Pasta,Cafe,SP212,SP212,2,422
+3500,1250,Demachiya2.76gi,CT6,CT6,Demachiya2.76gi,3,411,Yes,No,HT708,HT708,Zen  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,123
+5500,3700,Gion Shijo,CT60,CT60,Gion Shijo,3,412,Yes,No,HT100,HT100,Figerasu  ,35,136,3,1,S43,S43,Spain,Bar,SP220,SP220,3,422
+4500,1250,Gion Shijo,CT60,CT60,Gion Shijo,5,413,Yes,Yes,HT103,HT103,Fujiishi  ,35,136,3,1,S52,S52,Kappo Japanese,Japanese,SP262,SP262,5,14
+12500,3550,Gion Shijo,CT60,CT60,Gion Shijo,54,414,Yes,No,HT104,HT104,Fujiwara  ,35,136,3,1,S64,S64,Kappo Japanese,Kyoto Cuisine,SP262,SP262,55,117
+5500,2500,Gion Shijo,CT60,CT60,Gion Shijo,2,415,Yes,No,HT123,HT123,Giombansankyoushoku  ,35,136,3,1,S101,S101,Izakaya,Tempura,SP258,SP258,2,2
+35009,4500,Gion Shijo,CT60,CT60,Gion Shijo,3,416,Yes,No,HT124,HT124,Giombengara  ,35,136,3,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,3,59
+17500,17500,Gion Shijo,CT60,CT60,Gion Shijo,3,417,Yes,No,HT125,HT125,Giommikaku  ,35,136,3,1,S31,S31,Steak,Sukiyaki,SP221,SP221,3,2
+3500,6500,Gion Shijo,CT60,CT60,Gion Shijo,54,418,Yes,No,HT126,HT126,Gionabesu  ,35,136,56,1,S2,S2,French,Italian,SP208,SP208,58,488
+35009,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,419,Yes,No,HT127,HT127,Gioneguchi  ,35,136,3,1,S64,S64,Kappo Japanese,Kyoto Cuisine,SP262,SP262,3,11
+3500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,420,Yes,No,HT129,HT129,Giongyuuzen  ,35,136,3,1,S31,S31,Shabu Shabu Japanese Steamboat,Sukiyaki,SP186,SP186,3,439
+12500,5500,Gion Shijo,CT60,CT60,Gion Shijo,4,421,Yes,Yes,HT130,HT130,Gionhatanaka  ,35,136,54,1,S64,S64,Ryokan,Kyoto Cuisine,SP195,SP195,4,387
+12500,4500,Gion Shijo,CT60,CT60,Gion Shijo,54,422,Yes,No,HT131,HT131,Gioniwamoto  ,35,136,4,1,S94,S94,Kyoto Cuisine,Kappo Japanese,SP241,SP241,4,329
+12500,4500,Gion Shijo,CT60,CT60,Gion Shijo,3,423,Yes,No,HT132,HT132,Gionkyouryourihanasaki  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,5,73
+5500,3500,Gion Shijo,CT60,CT60,Gion Shijo,56,424,Yes,Yes,HT133,HT133,Gionramburu  ,35,136,3,1,S53,S53,Kyoto Cuisine,Creative cuisine,SP241,SP241,56,755
+25500,12500,Gion Shijo,CT60,CT60,Gion Shijo,4,425,Yes,No,HT134,HT134,Gionroiro  ,35,136,58,1,S15,S15,French,Chinese,SP208,SP208,4,1098
+35009,3500,Gion Shijo,CT60,CT60,Gion Shijo,55,426,Yes,No,HT135,HT135,Gionshimbashinakatani  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,56,157
+12500,1250,Gion Shijo,CT60,CT60,Gion Shijo,57,427,Yes,No,HT137,HT137,Giontakahashi  ,35,136,3,1,S30,S30,Kappo Japanese,FuguBlowfish,SP262,SP262,57,249
+6500,3500,Gion Shijo,CT60,CT60,Gion Shijo,3,428,Yes,No,HT138,HT138,Gionuemori  ,35,136,3,1,S94,S94,Kyoto Cuisine,Kappo Japanese,SP241,SP241,3,186
+5500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,429,Yes,No,HT139,HT139,Gionyakinikukokoro  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,17
+12500,12500,Gion Shijo,CT60,CT60,Gion Shijo,3,430,Yes,Yes,HT140,HT140,Gionyamamoto  ,35,136,3,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,3,9
+12500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,431,Yes,No,HT144,HT144,Giwonyakinikushige  ,35,136,3,1,S3,S3,Yakiniku BBQ Beef,Shabu Shabu Japanese Steamboat,SP219,SP219,3,117
+4500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,432,Yes,No,HT151,HT151,Gottie'sBEEF  ,35,136,3,1,S47,S47,Steak,Yakiniku BBQ Beef,SP221,SP221,3,167
+6500,3500,Gion Shijo,CT60,CT60,Gion Shijo,4,433,Yes,No,HT153,HT153,Grelot  ,35,136,4,1,S44,S44,French,Western Cuisine,SP208,SP208,3,46
+2500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,434,Yes,No,HT165,HT165,Haiborubakyoutoichikyunisan  ,35,136,3,1,S43,S43,Izakaya,Bar,SP258,SP258,3,570
+1500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,435,Yes,No,HT175,HT175,Haroukithisaryou  ,35,136,53,1,S64,S64,Cafe,Kyoto Cuisine,SP190,SP190,53,15
+5500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,436,Yes,No,HT179,HT179,Hikohachi  ,35,136,3,1,S17,S17,Sushi,Seafood,SP267,SP267,3,9
+3500,3500,Gion Shijo,CT60,CT60,Gion Shijo,3,437,Yes,Yes,HT184,HT184,Hisago  ,35,136,53,1,S27,S27,Japanese,Soba,SP235,SP235,54,223
+5500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,438,Yes,No,HT188,HT188,Horumondaigorou  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,9
+4500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,439,Yes,No,HT190,HT190,Houshouan  ,35,136,3,1,S98,S98,Kyoto Cuisine,Tofu,SP241,SP241,3,350
+5500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,440,Yes,Yes,HT197,HT197,Icchou  ,35,136,4,1,S78,S78,Kyoto Cuisine,Nihonshu Japanese Sake,SP241,SP241,3,208
+3500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,441,Yes,No,HT211,HT211,Imozou  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,674
+3500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,442,Yes,No,HT212,HT212,In the Soup.  ,35,136,3,1,S92,S92,Bar,Bistro,SP218,SP218,3,29
+4500,1250,Gion Shijo,CT60,CT60,Gion Shijo,56,443,Yes,No,HT218,HT218,Ishibekoujimamecha  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,56,532
+3500,3700,Gion Shijo,CT60,CT60,Gion Shijo,4,444,Yes,No,HT223,HT223,Itameshioriva  ,35,136,3,1,S43,S43,Italian,Bar,SP183,SP183,4,2
+35009,3500,Gion Shijo,CT60,CT60,Gion Shijo,3,445,Yes,No,HT225,HT225,Itoudainingu  ,35,136,3,1,S42,S42,Teppanyaki,Steak,SP196,SP196,3,5
+4500,1250,Gion Shijo,CT60,CT60,Gion Shijo,5,446,Yes,No,HT227,HT227,Itsuraku  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,5,29
+3500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,447,Yes,No,HT243,HT243,KYOTO GATTEN  ,35,136,3,1,S97,S97,Tempura,Sushi,SP264,SP264,3,393
+3500,2500,Gion Shijo,CT60,CT60,Gion Shijo,3,448,Yes,Yes,HT244,HT244,Kabochanotane  ,35,136,3,1,S64,S64,Kappo Japanese,Kyoto Cuisine,SP262,SP262,51,2250
+4500,1250,Gion Shijo,CT60,CT60,Gion Shijo,51,449,Yes,No,HT245,HT245,Kaburaya  ,35,136,3,1,S53,S53,Kyoto Cuisine,Creative cuisine,SP241,SP241,51,35
+4500,1250,Gion Shijo,CT60,CT60,Gion Shijo,56,450,Yes,No,HT264,HT264,Kankokuanjupontochouri2.76nha  ,35,136,3,1,S71,S71,Korean cuisine,Asian and ethnic cuisine,SP263,SP263,56,464
+3500,1250,Gion Shijo,CT60,CT60,Gion Shijo,3,451,Yes,No,HT267,HT267,Kantonoryouritakeka  ,35,136,3,1,S48,S48,Chinese,Cantonese Cuisine,SP193,SP193,3,2109
+35009,4500,Gion Shijo,CT60,CT60,Gion Shijo,52,452,Yes,Yes,HT269,HT269,Kappouiimori  ,35,136,4,1,S65,S65,Kappo Japanese,Kaiseki Japanese,SP262,SP262,52,211
+12500,12500,Gion Shijo,CT60,CT60,Gion Shijo,56,453,Yes,Yes,HT271,HT271,Kappouyoshizen  ,35,136,5,1,S65,S65,Kappo Japanese,Kaiseki Japanese,SP262,SP262,58,7
+12500,5500,Gion Shijo,CT60,CT60,Gion Shijo,5,454,Yes,No,HT276,HT276,Karyou  ,35,136,5,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,4,5
+3500,3700,Gion Shijo,CT60,CT60,Gion Shijo,3,455,Yes,Yes,HT277,HT277,Kashiwa  ,35,136,3,1,S18,S18,YakitoriGrilledChicken,Fowl,SP232,SP232,3,25
+35009,3500,Gion Shijo,CT60,CT60,Gion Shijo,4,456,Yes,No,HT283,HT283,Kenzoesuteitowainarigionten  ,35,136,3,1,S55,S55,Italian,Wine bar,SP183,SP183,4,411
+3500,1500,Gion Shijo,CT60,CT60,Gion Shijo,3,457,Yes,No,HT291,HT291,Kikusui  ,35,136,3,1,S29,S29,Western Cuisine,French,SP222,SP222,3,270
+5500,2500,Gion Shijo,CT60,CT60,Gion Shijo,3,458,Yes,No,HT300,HT300,Kitayama  ,35,136,3,1,S64,S64,Hot Pot,Kyoto Cuisine,SP185,SP185,3,294
+2500,1250,Gion Shijo,CT60,CT60,Gion Shijo,2,459,Yes,No,HT304,HT304,Koikoi  ,35,136,3,1,S34,S34,YakitoriGrilledChicken,Kushi-age Fried Skewer,SP232,SP232,2,1821
+4500,1500,Kyoto,CT71,CT71,Kyoto,3,574,Yes,No,HT323,HT323,Kushinobou  ,35,136,2,1,S57,S57,Kushi-age Fried Skewer,Cuisine,SP207,SP207,3,487
+2500,1500,Kyoto,CT71,CT71,Kyoto,2,575,Yes,Yes,HT326,HT326,Kushiyamonogatari  ,35,136,3,1,S91,S91,Kushi-age Fried Skewer,Izakaya,SP207,SP207,2,176
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,576,Yes,No,HT337,HT337,Kyoumachishizuku  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,9
+2500,3500,Kyoto,CT71,CT71,Kyoto,3,577,Yes,No,HT340,HT340,Kyounojiyasaiitariampacchokone  ,35,136,2,1,S32,S32,Italian,Pasta,SP183,SP183,3,51
+3500,2500,Kyoto,CT71,CT71,Kyoto,3,578,Yes,No,HT350,HT350,Kyoutobatake  ,35,136,3,1,S91,S91,Shabu Shabu Japanese Steamboat,Izakaya,SP186,SP186,3,10
+2500,1250,Kyoto,CT71,CT71,Kyoto,3,579,Yes,No,HT358,HT358,Kyoutohanagushi  ,35,136,3,1,S54,S54,Kushi-age Fried Skewer,YakitoriGrilledChicken,SP207,SP207,3,345
+3500,3500,Kyoto,CT71,CT71,Kyoto,3,580,Yes,Yes,HT359,HT359,Kyoutohananomai  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,21
+3500,1500,Kyoto,CT71,CT71,Kyoto,2,581,Yes,No,HT362,HT362,Kyoutokimurayahonten  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,2,270
+3500,4500,Kyoto,CT71,CT71,Kyoto,3,582,Yes,No,HT369,HT369,Kyoutotawahoteruokujoubiagaden  ,35,136,3,1,S37,S37,Beer garden,BBQ,SP266,SP266,3,15
+4500,1250,Kyoto,CT71,CT71,Kyoto,3,583,Yes,No,HT398,HT398,Masoho  ,35,136,4,1,S26,S26,Seafood,Robatayaki,SP194,SP194,3,153
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,584,Yes,No,HT399,HT399,Masohohanare  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,207
+2500,1500,Kyoto,CT71,CT71,Kyoto,3,585,Yes,No,HT411,HT411,Minari  ,35,136,3,1,S15,S15,Korean cuisine,Chinese,SP263,SP263,3,264
+35009,3500,Kyoto,CT71,CT71,Kyoto,51,586,Yes,No,HT428,HT428,Nihonryouriukihashi  ,35,136,54,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,53,660
+3500,1500,Kyoto,CT71,CT71,Kyoto,3,587,Yes,Yes,HT444,HT444,Nyavetonamu  ,35,136,3,1,S14,S14,Dining bar,Cafe,SP191,SP191,3,613
+1500,3500,Kyoto,CT71,CT71,Kyoto,3,588,Yes,No,HT451,HT451,Okonomiyakitsuruhashifuugetsu  ,35,136,3,1,S35,S35,Izakaya,Okonomiyaki,SP258,SP258,3,141
+4500,2500,Kyoto,CT71,CT71,Kyoto,4,589,Yes,Yes,HT454,HT454,Orudeidainingurajou  ,35,136,3,1,S14,S14,Buffet style,Cafe,SP253,SP253,3,314
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,590,Yes,Yes,HT456,HT456,Osaka2.76dekoboko  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,5
+4500,3550,Kyoto,CT71,CT71,Kyoto,2,591,Yes,No,HT457,HT457,Osakanazukkorobashi  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,2,353
+2500,1500,Kyoto,CT71,CT71,Kyoto,3,592,Yes,No,HT468,HT468,PASTA MORE  ,35,136,2,1,S29,S29,Italian,French,SP183,SP183,2,141
+4500,2500,Kyoto,CT71,CT71,Kyoto,3,593,Yes,No,HT480,HT480,Purejiru  ,35,136,3,1,S52,S52,Buffet style,Japanese,SP253,SP253,3,336
+4500,3700,Kyoto,CT71,CT71,Kyoto,4,594,Yes,No,HT487,HT487,Rakuza  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,4,488
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,595,Yes,No,HT489,HT489,Rakuzouutage  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,235
+3500,1500,Kyoto,CT71,CT71,Kyoto,2,596,Yes,Yes,HT497,HT497,Resutoranrejina,35,136,3,1,S84,S84,Western Food,Buffet style,SP206,SP206,3,244
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,597,Yes,No,HT514,HT514,Ryoumashamonoujou  ,35,136,2,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,2,5
+3500,3500,Kyoto,CT71,CT71,Kyoto,2,598,Yes,No,HT533,HT533,Saketosakanatootokomaeshokudou  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,2,17
+1500,1500,Kyoto,CT71,CT71,Kyoto,2,599,Yes,No,HT540,HT540,Saredokafe  ,35,136,3,1,S99,S99,Cafe,Crepes,SP190,SP190,3,369
+4500,1250,Kyoto,CT71,CT71,Kyoto,3,600,Yes,Yes,HT547,HT547,Sentoro  ,35,136,3,1,S33,S33,Italian,Restaurants,SP183,SP183,3,201
+6500,2500,Kyoto,CT71,CT71,Kyoto,3,601,Yes,No,HT556,HT556,Shisen  ,35,136,3,1,S48,S48,Sichuan Cuisine,Cantonese Cuisine,SP198,SP198,3,2
+5500,1250,Kyoto,CT71,CT71,Kyoto,3,602,Yes,No,HT568,HT568,Shusaijoujou  ,35,136,3,1,S91,S91,Creative cuisine,Izakaya,SP239,SP239,3,7
+4500,3500,Kyoto,CT71,CT71,Kyoto,2,603,Yes,Yes,HT57,HT57,Bisutoroya  ,35,136,3,1,S92,S92,Izakaya,Bistro,SP258,SP258,2,21
+3500,2500,Kyoto,CT71,CT71,Kyoto,56,604,Yes,No,HT577,HT577,Southern Court  ,35,136,54,1,S22,S22,Dining bar,Western ,SP191,SP191,58,429
+2500,3500,Kyoto,CT71,CT71,Kyoto,3,605,Yes,Yes,HT581,HT581,Sukairaunjikuu  ,35,136,3,1,S21,S21,Bar,Lounge,SP218,SP218,3,1070
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,606,Yes,No,HT582,HT582,Sukiyakisunibiizakayahokuto  ,35,136,3,1,S54,S54,Sukiyaki,YakitoriGrilledChicken,SP213,SP213,3,72
+3500,3550,Kyoto,CT71,CT71,Kyoto,3,607,Yes,Yes,HT585,HT585,Sumibikushiyakitsujiya  ,35,136,3,1,S85,S85,Izakaya,Kushiyaki Grilled Skewer,SP258,SP258,3,2122
+4500,1250,Kyoto,CT71,CT71,Kyoto,3,608,Yes,No,HT588,HT588,Sumibitowainkyoutoekimaeten  ,35,136,3,1,S2,S2,Bar,Italian,SP218,SP218,3,11
+4500,2500,Kyoto,CT71,CT71,Kyoto,3,609,Yes,Yes,HT61,HT61,Buruvaru  ,35,136,3,1,S20,S20,Buffet style,Teppanyaki,SP253,SP253,3,428
+2500,3500,Kyoto,CT71,CT71,Kyoto,3,610,Yes,No,HT611,HT611,Tajimaya  ,35,136,2,1,S31,S31,Shabu Shabu Japanese Steamboat,Sukiyaki,SP186,SP186,2,34
+4500,2500,Kyoto,CT71,CT71,Kyoto,3,611,Yes,No,HT625,HT625,Tawaterasu  ,35,136,5,1,S65,S65,Buffet style,Kaiseki Japanese,SP253,SP253,3,199
+35009,3500,Kyoto,CT71,CT71,Kyoto,3,612,Yes,No,HT63,HT63,Byuandodainingukotoshieru  ,35,136,3,1,S2,S2,Modern French,Italian,SP249,SP249,3,122
+6500,2500,Kyoto,CT71,CT71,Kyoto,3,613,Yes,No,HT630,HT630,Tenichi  ,35,136,53,1,S96,S96,Tempura,Tendon Tempura Bowl,SP264,SP264,51,546
+3500,3500,Kyoto,CT71,CT71,Kyoto,3,614,Yes,No,HT632,HT632,Tenkanoyakinikudaishougun  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,3,72
+3500,1500,Kyoto,CT71,CT71,Kyoto,51,615,Yes,No,HT634,HT634,Tenshinchashitsu  ,35,136,52,1,S48,S48,Shanghai Cuisine,Cantonese Cuisine,SP233,SP233,54,220
+1500,3500,Kyoto,CT71,CT71,Kyoto,2,616,Yes,No,HT65,HT65,CRAFT BEER & PIZZA 100K HYAKKEI  ,35,136,2,1,S45,S45,Italian,Pizza,SP183,SP183,2,2
+2500,3500,Kyoto,CT71,CT71,Kyoto,3,617,Yes,No,HT651,HT651,Torisei  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,45
+5500,2500,Kyoto,CT71,CT71,Kyoto,4,618,Yes,No,HT67,HT67,Cafe Restaurant Le Temps  ,35,136,5,1,S14,S14,Buffet style,Cafe,SP253,SP253,3,621
+3500,1500,Kyoto,CT71,CT71,Kyoto,2,619,Yes,No,HT671,HT671,Washokumai  ,35,136,2,1,S97,S97,Tempura,Sushi,SP264,SP264,2,674
+3500,3500,Kyoto,CT71,CT71,Kyoto,3,620,Yes,No,HT677,HT677,YEBISU BAR  ,35,136,3,1,S43,S43,Beer bar,Bar,SP231,SP231,3,543
+2500,3700,Kyoto,CT71,CT71,Kyoto,3,621,Yes,No,HT68,HT68,Chabana,35,136,3,1,S91,S91,Okonomiyaki,Izakaya,SP209,SP209,3,116
+2500,3500,Kyoto,CT71,CT71,Kyoto,3,622,Yes,No,HT69,HT69,Chanchi  ,35,136,3,1,S91,S91,Korean cuisine,Izakaya,SP263,SP263,3,270
+5500,1500,Kyoto,CT71,CT71,Kyoto,3,623,Yes,No,HT691,HT691,Yakinikutoraji  ,35,136,4,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,558
+3500,1500,Kyoto,CT71,CT71,Kyoto,3,624,Yes,No,HT705,HT705,Zakicchinsaruvatorekuomo  ,35,136,3,1,S14,S14,Italian,Cafe,SP183,SP183,3,360
+2500,1500,Kyoto,CT71,CT71,Kyoto,3,625,Yes,Yes,HT717,HT717,cafe Cento Cento  ,35,136,2,1,S32,S32,Cafe,Pasta,SP190,SP190,2,615
+6500,3500,Kyoto,CT71,CT71,Kyoto,4,626,Yes,No,HT720,HT720,chuugokuryourikoukaryuuhou  ,35,136,3,1,S66,S66,Chinese,Dim sum,SP193,SP193,3,11
+12500,5500,Kyoto,CT71,CT71,Kyoto,3,627,Yes,No,HT732,HT732,furenchidainingutoppuobukyouto  ,35,136,3,1,S33,S33,French,Restaurants,SP208,SP208,3,5
+3500,3700,Kyoto,CT71,CT71,Kyoto,3,628,Yes,No,HT734,HT734,gansochiriteppanyakimotsunabeakachiriya  ,35,136,2,1,S91,S91,Japanese,Izakaya,SP235,SP235,3,100
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,629,Yes,Yes,HT746,HT746,hakataaburimotsu2.76bewarajiya  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,410
+3500,3700,Kyoto,CT71,CT71,Kyoto,3,630,Yes,Yes,HT749,HT749,hoterukeihankyoutogurandeokujoubiaga-den  ,35,136,3,1,S4,S4,Beer garden,Beer,SP266,SP266,3,387
+2500,1250,Kyoto,CT71,CT71,Kyoto,3,631,Yes,No,HT751,HT751,itariamba-rukimuraya  ,35,136,3,1,S43,S43,Italian,Bar,SP183,SP183,3,677
+3500,1250,Kyoto,CT71,CT71,Kyoto,3,632,Yes,No,HT756,HT756,izakayakyounoshunsaiirodori  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,201
+35009,4500,Kyoto,CT71,CT71,Kyoto,2,633,Yes,Yes,HT762,HT762,kaisekifuransuryourigurumantachiba2.76  ,35,136,3,1,S44,S44,French,Western Cuisine,SP208,SP208,3,21
+3500,3700,Kyoto,CT71,CT71,Kyoto,2,634,Yes,Yes,HT765,HT765,kaitoshirowainnobarukakimaru  ,35,136,3,1,S2,S2,Bar,Italian,SP218,SP218,2,259
+3500,3500,Kyoto,CT71,CT71,Kyoto,3,635,Yes,No,HT775,HT775,kurabuhausumi2.76mi  ,35,136,3,1,S95,S95,Izakaya,Korean cuisine,SP258,SP258,3,247
+2500,3300,Kyoto,CT71,CT71,Kyoto,3,636,Yes,No,HT777,HT777,kyouchabana,35,136,3,1,S91,S91,Okonomiyaki,Izakaya,SP209,SP209,3,59
+3500,1500,Kyoto,CT71,CT71,Kyoto,2,637,Yes,Yes,HT791,HT791,kyoutoufusousakuhirarinteikakurean  ,35,136,3,1,S98,S98,Izakaya,Tofu,SP258,SP258,2,849
+3500,3550,Kyoto,CT71,CT71,Kyoto,3,638,Yes,No,HT8,HT8,Adan  ,35,136,3,1,S57,S57,Izakaya,Cuisine,SP258,SP258,3,355
+3500,3500,Kyoto,CT71,CT71,Kyoto,3,639,Yes,No,HT812,HT812,nikubaruginjirou  ,35,136,4,1,S2,S2,Bar,Italian,SP218,SP218,3,302
+3500,3550,Kyoto,CT71,CT71,Kyoto,3,640,Yes,Yes,HT812,HT812,nikubaruginjirou  ,35,136,3,1,S42,S42,Bar,Steak,SP218,SP218,3,650
+3500,3500,Kyoto,CT71,CT71,Kyoto,51,641,Yes,No,HT818,HT818,nikutowaimbaruwaraku  ,35,136,3,1,S46,S46,Bar,Spain,SP218,SP218,52,5
+4500,2500,Kyoto,CT71,CT71,Kyoto,3,642,Yes,Yes,HT822,HT822,o-rudeidainingukaza  ,35,136,52,1,S14,S14,Buffet style,Cafe,SP253,SP253,3,8
+4500,1500,Kyoto,CT71,CT71,Kyoto,2,643,Yes,No,HT824,HT824,okuta-va  ,35,136,3,1,S2,S2,Bar,Italian,SP218,SP218,3,336
+3500,2500,Kyoto,CT71,CT71,Kyoto,3,644,Yes,No,HT839,HT839,saredowa  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,3,618
+3500,3300,Kyoto,CT71,CT71,Kyoto,3,645,Yes,No,HT84,HT84,Daniel's Luce   ,35,136,3,1,S54,S54,Italian,YakitoriGrilledChicken,SP183,SP183,3,10
+12500,4500,Kyoto,CT71,CT71,Kyoto,3,646,Yes,No,HT858,HT858,teppanyakiaoi  ,35,136,3,1,S52,S52,Teppanyaki,Japanese,SP196,SP196,3,487
+4500,3300,Kyoto,CT71,CT71,Kyoto,51,647,Yes,Yes,HT861,HT861,toriiebisu  ,35,136,3,1,S91,S91,Seafood,Izakaya,SP194,SP194,51,30
+3500,3700,Kyoto,CT71,CT71,Kyoto,3,648,Yes,No,HT862,HT862,torisemmontenyamadori  ,35,136,3,1,S31,S31,YakitoriGrilledChicken,Sukiyaki,SP232,SP232,3,326
+4500,3550,Kyoto,CT71,CT71,Kyoto,2,649,Yes,No,HT871,HT871,waingurashiori  ,35,136,3,1,S91,S91,Wine bar,Izakaya,SP237,SP237,2,289
+3500,3700,Kyoto,CT71,CT71,Kyoto,2,650,Yes,No,HT889,HT889,zensekikoshitsuizakayataketorinoneiro  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,2,145
+3500,3500,Kyoto,CT71,CT71,Kyoto,3,651,Yes,No,HT89,HT89,Ebisu  ,35,136,3,1,S15,S15,Ramen,Chinese,SP216,SP216,51,372
+3500,3700,Kyoto,CT71,CT71,Kyoto,2,652,Yes,Yes,HT890,HT890,zensekikoshitsuizakayatsukinokakehashi  ,35,136,3,1,S5,S5,Izakaya,Regional Cuisine Other,SP258,SP258,2,474
+3500,2500,Kyoto,CT71,CT71,Kyoto,3,653,Yes,No,HT891,HT891,zensekikoshitsuizakayawazakurahitohira  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,535
+3500,3300,Kyoto,CT71,CT71,Kyoto,3,654,Yes,No,HT892,HT892,zeppinryokuchadashishabunoomiseiemon  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,5
+5500,2500,Kyoto,CT71,CT71,Kyoto,3,655,Yes,No,HT90,HT90,Eijuan  ,35,136,2,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,2,579
+4500,1250,Kyoto,CT71,CT71,Kyoto,4,656,Yes,No,HT95,HT95,Erupojo  ,35,136,4,1,S45,S45,Spain,Pizza,SP220,SP220,4,128
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,4,657,Yes,No,HT109,HT109,Fuubitosuuro  ,35,136,3,1,S42,S42,Bar,Steak,SP218,SP218,4,29
+4500,3550,Kawaramachi,CT72,CT72,Kawaramachi,4,658,Yes,Yes,HT147,HT147,Gokoumachiono  ,35,136,3,1,S24,S24,Izakaya,Oden,SP258,SP258,4,353
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,659,Yes,No,HT168,HT168,Hakatamotsunabefukuya  ,35,136,4,1,S91,S91,Japanese,Izakaya,SP235,SP235,3,145
+4500,1250,Kawaramachi,CT72,CT72,Kawaramachi,4,660,Yes,No,HT18,HT18,Akayashirosakae  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,4,12
+4500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,661,Yes,Yes,HT187,HT187,Honmamonwagyu-saka2.76ya-hirari  ,35,136,2,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,591
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,662,Yes,No,HT196,HT196,Ibushiginkazuya  ,35,136,3,1,S78,S78,Bar,Nihonshu Japanese Sake,SP218,SP218,3,465
+3500,1500,Kawaramachi,CT72,CT72,Kawaramachi,5,663,Yes,Yes,HT198,HT198,Ichibakouji  ,35,136,5,1,S42,S42,Izakaya,Steak,SP258,SP258,51,1070
+2500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,664,Yes,No,HT231,HT231,Izakayamaruya  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,13
+4500,3300,Kawaramachi,CT72,CT72,Kawaramachi,3,665,Yes,No,HT236,HT236,Jounetsushokusaikyoushoku  ,35,136,3,1,S64,S64,Seafood,Kyoto Cuisine,SP194,SP194,3,10
+2500,2500,Kawaramachi,CT72,CT72,Kawaramachi,3,666,Yes,No,HT250,HT250,Kaisen  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,304
+3500,3700,Kawaramachi,CT72,CT72,Kawaramachi,3,667,Yes,No,HT253,HT253,Kaisenizakayamatsurishungyotokyouyasaitoosakenoomise  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,141
+2500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,668,Yes,Yes,HT257,HT257,Kamehameha  ,35,136,3,1,S20,S20,Okonomiyaki,Teppanyaki,SP209,SP209,3,53
+3500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,669,Yes,No,HT260,HT260,Kamon  ,35,136,3,1,S43,S43,Italian,Bar,SP183,SP183,3,46
+3500,1500,Kawaramachi,CT72,CT72,Kawaramachi,2,670,Yes,No,HT279,HT279,Kawamuraryourihei  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,290
+3500,3550,Kawaramachi,CT72,CT72,Kawaramachi,3,671,Yes,No,HT285,HT285,Kichiri  ,35,136,3,1,S16,S16,Izakaya,Dining bar,SP258,SP258,3,350
+3500,3500,Kawaramachi,CT72,CT72,Kawaramachi,3,672,Yes,No,HT327,HT327,Kuuan  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,3,2
+6500,2500,Kawaramachi,CT72,CT72,Kawaramachi,2,673,Yes,No,HT328,HT328,Kyameron  ,35,136,3,1,S29,S29,Steak,French,SP221,SP221,3,9
+3500,3500,Kawaramachi,CT72,CT72,Kawaramachi,3,674,Yes,No,HT332,HT332,Kyouhorumonkura  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,0
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,675,Yes,No,HT333,HT333,Kyouhorumontaisha  ,35,136,3,1,S52,S52,Horumon BBQ Offel,Japanese,SP260,SP260,3,879
+1500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,676,Yes,No,HT338,HT338,Kyounishikiobanzaibyuffehi2.76taya  ,35,136,2,1,S64,S64,Buffet style,Kyoto Cuisine,SP253,SP253,3,114
+3500,3500,Kawaramachi,CT72,CT72,Kawaramachi,3,677,Yes,No,HT339,HT339,Kyounojidoriyaaki  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,347
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,51,678,Yes,No,HT341,HT341,Kyounooheso  ,35,136,3,1,S90,S90,Izakaya,Curry,SP258,SP258,51,256
+4500,3500,Kawaramachi,CT72,CT72,Kawaramachi,3,679,Yes,Yes,HT349,HT349,Kyousainikushima  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,330
+5500,1500,Kawaramachi,CT72,CT72,Kawaramachi,51,680,Yes,No,HT356,HT356,Kyoutogontaro  ,35,136,59,1,S27,S27,Udon Suki,Soba,SP227,SP227,59,10
+3500,3700,Kawaramachi,CT72,CT72,Kawaramachi,4,681,Yes,Yes,HT372,HT372,Kyoutoyakitoriseisakujo  ,35,136,3,1,S18,S18,YakitoriGrilledChicken,Fowl,SP232,SP232,4,211
+3500,3550,Kawaramachi,CT72,CT72,Kawaramachi,3,682,Yes,No,HT377,HT377,Kyouyakiyomizu  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,2326
+3500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,683,Yes,No,HT38,HT38,BELLOTA concha  ,35,136,3,1,S2,S2,Spain,Italian,SP220,SP220,3,58
+3500,3550,Kawaramachi,CT72,CT72,Kawaramachi,2,684,Yes,No,HT387,HT387,MAWARI  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,2,1821
+4500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,685,Yes,No,HT409,HT409,Mimasuyamo2.76mi  ,35,136,3,1,S64,S64,Creative cuisine,Kyoto Cuisine,SP239,SP239,3,6
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,51,686,Yes,Yes,HT41,HT41,Banikuryourisemmontenumayarou  ,35,136,3,1,S3,S3,Yakiniku BBQ Beef,Shabu Shabu Japanese Steamboat,SP219,SP219,51,40
+3500,3700,Kawaramachi,CT72,CT72,Kawaramachi,3,687,Yes,No,HT419,HT419,Monakadou  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,3,253
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,51,688,Yes,No,HT437,HT437,Nishikihenkotsu  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,51,147
+1500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,689,Yes,No,HT438,HT438,Nishikiichiha  ,35,136,3,1,S59,S59,Coffee Shop,Sweets,SP226,SP226,3,197
+3500,3500,Kawaramachi,CT72,CT72,Kawaramachi,3,690,Yes,No,HT443,HT443,Noukoutoripaitanramemmisora  ,35,136,3,1,S49,S49,Ramen,Tsukemen,SP216,SP216,3,289
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,691,Yes,No,HT448,HT448,Obanzaitatsunosuke  ,35,136,4,1,S91,S91,Japanese,Izakaya,SP235,SP235,3,46
+2500,3550,Kawaramachi,CT72,CT72,Kawaramachi,3,692,Yes,Yes,HT458,HT458,Osakekafepuchipuchi  ,35,136,3,1,S14,S14,Nihonshu Japanese Sake,Cafe,SP251,SP251,3,25
+5500,3700,Kawaramachi,CT72,CT72,Kawaramachi,52,693,Yes,No,HT461,HT461,Osuteriaebaruporenta  ,35,136,3,1,S55,S55,Italian,Wine bar,SP183,SP183,53,25
+2500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,694,Yes,Yes,HT470,HT470,Parinijuuikku  ,35,136,3,1,S4,S4,Steak,Beer,SP221,SP221,3,879
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,695,Yes,Yes,HT471,HT471,Peppa  ,35,136,3,1,S91,S91,Cuisine,Izakaya,SP238,SP238,3,19
+3500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,696,Yes,No,HT474,HT474,Pizzeria e Bar La Voce  ,35,136,3,1,S45,S45,Italian,Pizza,SP183,SP183,3,558
+1500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,697,Yes,No,HT482,HT482,RH Cafe  ,35,136,3,1,S52,S52,Cafe,Japanese,SP190,SP190,3,13
+2500,3700,Kawaramachi,CT72,CT72,Kawaramachi,2,698,Yes,No,HT49,HT49,Bar Pleasure  ,35,136,3,1,S55,S55,Bar,Wine bar,SP218,SP218,2,36
+6500,2500,Kawaramachi,CT72,CT72,Kawaramachi,58,699,Yes,No,HT492,HT492,Ranka  ,35,136,58,1,S29,S29,Bistro,French,SP259,SP259,58,63
+4500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,700,Yes,No,HT493,HT493,Rejon  ,35,136,3,1,S92,S92,French,Bistro,SP208,SP208,3,9
+2500,3500,Kawaramachi,CT72,CT72,Kawaramachi,3,701,Yes,No,HT561,HT561,Shougetsu  ,35,136,3,1,S20,S20,Okonomiyaki,Teppanyaki,SP209,SP209,3,256
+3500,3300,Kawaramachi,CT72,CT72,Kawaramachi,51,702,Yes,No,HT583,HT583,Sumibikazuya  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,51,29
+3500,3700,Kawaramachi,CT72,CT72,Kawaramachi,3,703,Yes,No,HT584,HT584,Sumibikushiyakitsujiya  ,35,136,3,1,S91,S91,YakitoriGrilledChicken,Izakaya,SP232,SP232,3,186
+2500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,704,Yes,No,HT592,HT592,Sumibiyakitorikou  ,35,136,3,1,S91,S91,YakitoriGrilledChicken,Izakaya,SP232,SP232,3,39
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,705,Yes,No,HT593,HT593,Sumika  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,3,677
+3500,3300,Kawaramachi,CT72,CT72,Kawaramachi,52,706,Yes,Yes,HT594,HT594,Sumikatominokouji  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,52,49
+3500,1500,Kawaramachi,CT72,CT72,Kawaramachi,52,707,Yes,No,HT596,HT596,Supuringubareburuwarikyouto  ,35,136,3,1,S14,S14,Dining bar,Cafe,SP191,SP191,53,6
+3500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,708,Yes,No,HT607,HT607,TORIBUN  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,235
+25500,6500,Kawaramachi,CT72,CT72,Kawaramachi,52,709,Yes,Yes,HT618,HT618,Tankumakitamise  ,35,136,4,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,59,142
+4500,1250,Kawaramachi,CT72,CT72,Kawaramachi,5,710,Yes,No,HT624,HT624,Taverunamezzanotte  ,35,136,3,1,S43,S43,Italian,Bar,SP183,SP183,5,555
+4500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,711,Yes,No,HT629,HT629,Tempurashinjukutsunahachi  ,35,136,3,1,S65,S65,Tempura,Kaiseki Japanese,SP264,SP264,3,458
+2500,1250,Kawaramachi,CT72,CT72,Kawaramachi,2,712,Yes,No,HT648,HT648,Torihime  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,2,11
+3500,3700,Kawaramachi,CT72,CT72,Kawaramachi,3,713,Yes,No,HT666,HT666,Uroko  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,368
+4500,3700,Kawaramachi,CT72,CT72,Kawaramachi,3,714,Yes,Yes,HT668,HT668,Waraiya  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,650
+3500,3700,Kawaramachi,CT72,CT72,Kawaramachi,3,715,Yes,No,HT679,HT679,Yakinikubaruyaruki  ,35,136,3,1,S43,S43,Yakiniku BBQ Beef,Bar,SP219,SP219,3,35
+4500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,716,Yes,Yes,HT686,HT686,Yakinikumarutomi  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,3,6
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,717,Yes,No,HT696,HT696,Yasuma  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,9
+3500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,718,Yes,No,HT714,HT714,biakicchinnikubarujikabiyajikabiya  ,35,136,3,1,S91,S91,Bar,Izakaya,SP218,SP218,3,118
+1500,3500,Kawaramachi,CT72,CT72,Kawaramachi,3,719,Yes,No,HT729,HT729,eruku  ,35,136,52,1,S14,S14,Pancake,Cafe,SP187,SP187,53,73
+3500,2500,Kawaramachi,CT72,CT72,Kawaramachi,53,720,Yes,No,HT743,HT743,gyokouchokusoukaisensakabaanji  ,35,136,2,1,S17,S17,Izakaya,Seafood,SP258,SP258,53,6
+3500,2500,Kawaramachi,CT72,CT72,Kawaramachi,3,721,Yes,No,HT764,HT764,kaitoshirowainnobarukakimaru  ,35,136,3,1,S91,S91,Bar,Izakaya,SP218,SP218,3,1210
+1500,3500,Kawaramachi,CT72,CT72,Kawaramachi,3,722,Yes,No,HT771,HT771,konken  ,35,136,3,1,S91,S91,Thailand cooking,Izakaya,SP250,SP250,3,496
+4500,1250,Kawaramachi,CT72,CT72,Kawaramachi,3,723,Yes,No,HT773,HT773,koubegyuuyakinikutaishitei  ,35,136,3,1,S41,S41,Yakiniku BBQ Beef,Chiritori,SP219,SP219,3,326
+3500,1250,Kawaramachi,CT72,CT72,Kawaramachi,2,724,Yes,No,HT778,HT778,kyougokushinobinosato  ,35,136,3,1,S97,S97,Creative cuisine,Sushi,SP239,SP239,2,2
+5500,2500,Kawaramachi,CT72,CT72,Kawaramachi,2,725,Yes,No,HT779,HT779,kyoumachiyaitarianronkusu  ,35,136,3,1,S79,S79,Italian,Sumibiyaki,SP183,SP183,2,51
+1500,3500,Kawaramachi,CT72,CT72,Kawaramachi,3,726,Yes,Yes,HT798,HT798,menkiya  ,35,136,3,1,S15,S15,Ramen,Chinese,SP216,SP216,3,8
+5500,1500,Kawaramachi,CT72,CT72,Kawaramachi,4,727,Yes,No,HT851,HT851,sute-kihausupondo  ,35,136,3,1,S23,S23,Steak,Western Food,SP221,SP221,3,13
+2500,1500,Kawaramachi,CT72,CT72,Kawaramachi,3,728,Yes,Yes,HT867,HT867,unagihitsumabushisumiyagura  ,35,136,4,1,S64,S64,Seafood,Kyoto Cuisine,SP194,SP194,4,25
+3500,3300,Kawaramachi,CT72,CT72,Kawaramachi,2,729,Yes,Yes,HT886,HT886,zensekikoshitsuizakayasakurakomachi  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,2,21
+12500,5500,Kiyomizu Gojo,CT73,CT73,Kiyomizu Gojo,59,730,Yes,No,HT174,HT174,Harise  ,35,136,58,1,S64,S64,Kaiseki Japanese,Kyoto Cuisine,SP243,SP243,4,149
+6500,3500,Kiyomizu Gojo,CT73,CT73,Kiyomizu Gojo,3,731,Yes,No,HT298,HT298,Kishouzakura  ,35,136,3,1,S53,S53,French,Creative cuisine,SP208,SP208,3,160
+2500,2500,Kiyomizu Gojo,CT73,CT73,Kiyomizu Gojo,3,732,Yes,No,HT302,HT302,Kiyomizujunsei  ,35,136,3,1,S36,S36,Tofu,Yuba,SP265,SP265,3,429
+4500,1250,Kiyomizu Gojo,CT73,CT73,Kiyomizu Gojo,4,733,Yes,Yes,HT353,HT353,Kyoutogiommiyagawachououmie  ,35,136,3,1,S43,S43,Wine bar,Bar,SP237,SP237,4,20
+3500,3550,Kiyomizu Gojo,CT73,CT73,Kiyomizu Gojo,3,734,Yes,No,HT445,HT445,OICHO  ,35,136,3,1,S6,S6,Fowl,Hot Pot,SP197,SP197,3,369
+3500,3500,Kiyomizu Gojo,CT73,CT73,Kiyomizu Gojo,3,735,Yes,Yes,HT490,HT490,Ramenfuji  ,35,136,3,1,S90,S90,Ramen,Curry,SP216,SP216,3,474
+1500,3500,Kiyomizu Gojo,CT73,CT73,Kiyomizu Gojo,3,736,Yes,No,HT560,HT560,Shouentei  ,35,136,3,1,S40,S40,Chinese,Ramen,SP193,SP193,3,141
+4500,1500,Kiyomizu Gojo,CT73,CT73,Kiyomizu Gojo,3,737,Yes,Yes,HT62,HT62,Bussarakan  ,35,136,4,1,S53,S53,Thailand cooking,Creative cuisine,SP250,SP250,3,917
+5500,1500,Kiyomizu Gojo,CT73,CT73,Kiyomizu Gojo,3,738,Yes,No,HT645,HT645,Torattoriaviare  ,35,136,3,1,S44,S44,Italian,Western Cuisine,SP183,SP183,3,11
+1500,1500,Katsura,CT74,CT74,Katsura,3,739,Yes,No,HT220,HT220,Ishiyakinamapasutakuranosuke  ,35,136,3,1,S2,S2,Pasta,Italian,SP212,SP212,3,485
+3500,3500,Katsura,CT74,CT74,Katsura,3,740,Yes,No,HT255,HT255,Kaiuntei  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,3,360
+3500,3700,Katsura,CT74,CT74,Katsura,3,741,Yes,Yes,HT381,HT381,Kyuushuunecchuuya  ,35,136,3,1,S100,S100,Izakaya,Dumplings,SP258,SP258,3,244
+6500,1250,Katsura,CT74,CT74,Katsura,53,742,Yes,No,HT597,HT597,Sushidokoroima  ,35,136,3,1,S17,S17,Sushi,Seafood,SP267,SP267,53,25
+2500,1500,Fukakusa,CT75,CT75,Fukakusa,3,743,Yes,No,HT374,HT374,Kyouwasabi  ,35,136,3,1,S64,S64,Pork Shabu Shabu,Kyoto Cuisine,SP223,SP223,3,26
+3500,3700,Fukakusa,CT75,CT75,Fukakusa,3,744,Yes,No,HT416,HT416,Momojirou  ,35,136,3,1,S19,S19,Izakaya,Chanko Sumo Wrestlers Hot Pot,SP258,SP258,3,147
+4500,4500,Omiya,CT76,CT76,Omiya,3,745,Yes,Yes,HT119,HT119,Gimmiyananairo  ,35,136,3,1,S94,S94,Izakaya,Kappo Japanese,SP258,SP258,3,117
+2500,3500,Omiya,CT76,CT76,Omiya,3,746,Yes,No,HT29,HT29,Arata  ,35,136,3,1,S20,S20,Okonomiyaki,Teppanyaki,SP209,SP209,3,147
+3500,3550,Omiya,CT76,CT76,Omiya,3,747,Yes,No,HT367,HT367,Kyoutosakabaakamaru  ,35,136,3,1,S83,S83,Izakaya,European Style Curry,SP258,SP258,3,365
+3500,3700,Omiya,CT76,CT76,Omiya,3,748,Yes,No,HT382,HT382,Kyuushuunecchuuya  ,35,136,3,1,S100,S100,Izakaya,Dumplings,SP258,SP258,3,365
+35009,3500,Omiya,CT76,CT76,Omiya,4,749,Yes,No,HT389,HT389,Machiyashisenhoshitsukiyo  ,35,136,56,1,S56,S56,Sichuan Cuisine,Shanghai Cuisine,SP198,SP198,53,1098
+3500,3700,Omiya,CT76,CT76,Omiya,2,750,Yes,No,HT434,HT434,Nikumon  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,2,141
+3500,3500,Omiya,CT76,CT76,Omiya,3,751,Yes,No,HT633,HT633,Tenkanoyakinikudaishougun  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,4,186
+3500,1500,Omiya,CT76,CT76,Omiya,3,752,Yes,No,HT675,HT675,YAMAMURA GYUUBEI  ,35,136,3,1,S2,S2,Izakaya,Italian,SP258,SP258,3,465
+3500,1250,Omiya,CT76,CT76,Omiya,3,753,Yes,No,HT683,HT683,Yakinikuhorumonfukukawa  ,35,136,3,1,S15,S15,Yakiniku BBQ Beef,Chinese,SP219,SP219,3,465
+3500,1250,Omiya,CT76,CT76,Omiya,3,754,Yes,No,HT752,HT752,itariambarutoreotto  ,35,136,3,1,S45,S45,Italian,Pizza,SP183,SP183,3,73
+3500,1500,Nishi Maizuru,CT77,CT77,Nishi Maizuru,3,755,Yes,No,HT21,HT21,Ameirobisutoroaruru  ,35,135,3,1,S14,S14,Italian,Cafe,SP183,SP183,3,579
+3500,3550,Nishi Maizuru,CT77,CT77,Nishi Maizuru,2,756,Yes,No,HT516,HT516,Ryuuhourakuenchura  ,35,135,3,1,S91,S91,Cuisine,Izakaya,SP238,SP238,2,38
+4500,1500,Nishi Maizuru,CT77,CT77,Nishi Maizuru,3,757,Yes,No,HT654,HT654,Toto  ,35,135,4,1,S97,S97,Seafood,Sushi,SP194,SP194,4,36
+4500,1250,Nishi Maizuru,CT77,CT77,Nishi Maizuru,3,758,Yes,No,HT795,HT795,kyuushuusakabaajito  ,35,135,3,1,S18,S18,Izakaya,Fowl,SP258,SP258,3,10
+3500,1500,Nishi Maizuru,CT77,CT77,Nishi Maizuru,3,759,Yes,No,HT836,HT836,ryoushigoya  ,35,135,51,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,820
+1500,1500,Nishi Maizuru,CT77,CT77,Nishi Maizuru,3,760,Yes,Yes,HT859,HT859,teuchiudonishokuyabongu  ,35,135,3,1,S77,S77,Izakaya,Udon,SP258,SP258,3,387
+4500,3550,Nishikyogoku,CT78,CT78,Nishikyogoku,3,761,Yes,No,HT6,HT6,Aburiya  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,3,340
+5500,3300,Nishikyogoku,CT78,CT78,Nishikyogoku,3,762,Yes,No,HT608,HT608,Taichirouya  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,7
+5500,3550,Nishioji Sanjo,CT79,CT79,Nishioji Sanjo,3,763,Yes,No,HT590,HT590,Sumibiyakinikuou  ,35,136,3,1,S47,S47,Korean cuisine,Yakiniku BBQ Beef,SP263,SP263,3,800
+3500,3700,Karasuma,CT8,CT8,Karasuma,2,764,Yes,No,HT101,HT101,Figerasu  ,35,136,3,1,S43,S43,Spain,Bar,SP220,SP220,3,302
+4500,3500,Karasuma,CT8,CT8,Karasuma,3,765,Yes,No,HT117,HT117,Gempinfugushijoukarasumanoseki  ,35,136,3,1,S30,S30,Izakaya,FuguBlowfish,SP258,SP258,3,294
+4500,1250,Karasuma,CT8,CT8,Karasuma,3,766,Yes,No,HT14,HT14,Ajirokkon  ,35,136,3,1,S91,S91,Kappo Japanese,Izakaya,SP262,SP262,3,393
+2500,2500,Karasuma,CT8,CT8,Karasuma,4,767,Yes,No,HT166,HT166,Haiborubakyoutokarasumaichikyuuniisan  ,35,136,3,1,S43,S43,Bar,Bar,SP218,SP218,4,347
+12500,4500,Karasuma,CT8,CT8,Karasuma,54,768,Yes,No,HT172,HT172,Hanasaki  ,35,136,58,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,58,49
+4500,1500,Karasuma,CT8,CT8,Karasuma,3,769,Yes,No,HT194,HT194,IZAMA  ,35,136,58,1,S53,S53,Kyoto Cuisine,Creative cuisine,SP241,SP241,53,57
+6500,2500,Karasuma,CT8,CT8,Karasuma,3,770,Yes,Yes,HT215,HT215,Ippinhashinaga  ,35,136,51,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,51,428
+3500,3500,Karasuma,CT8,CT8,Karasuma,5,771,Yes,No,HT228,HT228,Ittetsugurache  ,35,136,3,1,S43,S43,Yakiniku BBQ Beef,Bar,SP219,SP219,52,39
+3500,1250,Karasuma,CT8,CT8,Karasuma,3,772,Yes,No,HT232,HT232,Izakayariraku  ,35,136,3,1,S18,S18,YakitoriGrilledChicken,Fowl,SP232,SP232,3,6
+3500,3550,Karasuma,CT8,CT8,Karasuma,4,773,Yes,No,HT235,HT235,Joukoya  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,4,63
+4500,3700,Karasuma,CT8,CT8,Karasuma,3,774,Yes,No,HT251,HT251,Kaisendokoroichi  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,98
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,775,Yes,No,HT263,HT263,Kandumebaruamichi  ,35,136,3,1,S91,S91,Bar,Izakaya,SP218,SP218,3,17
+3500,1500,Karasuma,CT8,CT8,Karasuma,3,776,Yes,No,HT295,HT295,Kinnotsubasaerudoru  ,35,136,2,1,S95,S95,Izakaya,Korean cuisine,SP258,SP258,2,380
+2500,3500,Karasuma,CT8,CT8,Karasuma,51,777,Yes,No,HT307,HT307,Komefuku  ,35,136,56,1,S96,S96,Tempura,Tendon Tempura Bowl,SP264,SP264,55,0
+4500,1250,Karasuma,CT8,CT8,Karasuma,3,778,Yes,No,HT311,HT311,Kugurinaberoppakuya  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,2
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,779,Yes,No,HT312,HT312,Kumamotosougouinshokutemmao  ,35,136,3,1,S14,S14,Bar,Cafe,SP218,SP218,4,433
+1500,1500,Karasuma,CT8,CT8,Karasuma,3,780,Yes,No,HT315,HT315,Kurepurikyoutoshanderu  ,35,136,51,1,S14,S14,Crepes,Cafe,SP271,SP271,53,433
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,781,Yes,No,HT324,HT324,Kushiyachouemon  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,11
+3500,3700,Karasuma,CT8,CT8,Karasuma,3,782,Yes,No,HT325,HT325,Kushiyakimanten  ,35,136,3,1,S91,S91,YakitoriGrilledChicken,Izakaya,SP232,SP232,3,439
+3500,2500,Karasuma,CT8,CT8,Karasuma,53,783,Yes,No,HT351,HT351,Kyoutodaina ,35,136,3,1,S43,S43,Bistro,Bar,SP259,SP259,54,10
+3500,3550,Karasuma,CT8,CT8,Karasuma,3,784,Yes,Yes,HT352,HT352,Kyoutofushimigura  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,410
+2500,1250,Karasuma,CT8,CT8,Karasuma,3,785,Yes,Yes,HT357,HT357,Kyoutohanabi  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,49
+2500,3500,Karasuma,CT8,CT8,Karasuma,3,786,Yes,No,HT366,HT366,Kyoutonishikitempurasakabataneshichi  ,35,136,3,1,S91,S91,Tempura,Izakaya,SP264,SP264,3,153
+5500,2500,Karasuma,CT8,CT8,Karasuma,4,787,Yes,No,HT375,HT375,Kyouwazentainotai  ,35,136,3,1,S65,S65,Kyoto Cuisine,Kaiseki Japanese,SP241,SP241,3,555
+4500,1500,Karasuma,CT8,CT8,Karasuma,3,788,Yes,No,HT378,HT378,Kyouyoushokumatsumoto  ,35,136,3,1,S29,S29,Western Cuisine,French,SP222,SP222,3,728
+3500,3700,Karasuma,CT8,CT8,Karasuma,3,789,Yes,No,HT395,HT395,Maribuagaru  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,3,34
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,790,Yes,No,HT404,HT404,Menshoutakamatsu  ,35,136,3,1,S49,S49,Ramen,Tsukemen,SP216,SP216,3,112
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,791,Yes,No,HT404,HT404,Menshoutakamatsu  ,35,136,58,1,S40,S40,Tsukemen,Ramen,SP230,SP230,58,350
+3500,1250,Karasuma,CT8,CT8,Karasuma,3,792,Yes,No,HT418,HT418,Momoya  ,35,136,3,1,S34,S34,Izakaya,Kushi-age Fried Skewer,SP258,SP258,3,96
+4500,3700,Karasuma,CT8,CT8,Karasuma,3,793,Yes,No,HT42,HT42,Bankettonishiki  ,35,136,3,1,S91,S91,Japanese,Izakaya,SP235,SP235,3,879
+6500,3500,Karasuma,CT8,CT8,Karasuma,2,794,Yes,No,HT421,HT421,Mukadeya  ,35,136,3,1,S52,S52,Kyoto Cuisine,Japanese,SP241,SP241,3,160
+4500,3500,Karasuma,CT8,CT8,Karasuma,3,795,Yes,No,HT435,HT435,Nikuryouritobatoyo  ,35,136,3,1,S55,S55,Beef dishes,Wine bar,SP210,SP210,3,29
+3500,3300,Karasuma,CT8,CT8,Karasuma,3,796,Yes,Yes,HT44,HT44,Bansankyoushoku  ,35,136,3,1,S91,S91,YakitoriGrilledChicken,Izakaya,SP232,SP232,3,19
+3500,1250,Karasuma,CT8,CT8,Karasuma,3,797,Yes,No,HT45,HT45,Baoku  ,35,136,4,1,S55,S55,Bar,Wine bar,SP218,SP218,3,112
+4500,1500,Karasuma,CT8,CT8,Karasuma,4,798,Yes,No,HT460,HT460,Osteria Bastille  ,35,136,3,1,S29,S29,Italian,French,SP183,SP183,3,113
+2500,3500,Karasuma,CT8,CT8,Karasuma,3,799,Yes,No,HT486,HT486,Rakusenrou  ,35,136,3,1,S91,S91,Chinese,Izakaya,SP193,SP193,5,161
+4500,1250,Karasuma,CT8,CT8,Karasuma,3,800,Yes,No,HT496,HT496,Resutoraniro  ,35,136,3,1,S53,S53,Izakaya,Creative cuisine,SP258,SP258,3,29
+4500,1250,Karasuma,CT8,CT8,Karasuma,3,801,Yes,No,HT504,HT504,Robatayagaburi  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,11
+2500,3550,Karasuma,CT8,CT8,Karasuma,3,802,Yes,No,HT505,HT505,Rohan  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,58
+3500,3700,Karasuma,CT8,CT8,Karasuma,3,803,Yes,Yes,HT509,HT509,Roppakuyakado  ,35,136,3,1,S55,S55,Izakaya,Wine bar,SP258,SP258,3,615
+3500,1250,Karasuma,CT8,CT8,Karasuma,3,804,Yes,No,HT523,HT523,SPOON  ,35,136,4,1,S52,S52,Dining bar,Japanese,SP191,SP191,3,621
+4500,3700,Karasuma,CT8,CT8,Karasuma,2,805,Yes,No,HT527,HT527,Sajiki  ,35,136,3,1,S52,S52,Izakaya,Japanese,SP258,SP258,2,157
+2500,3500,Karasuma,CT8,CT8,Karasuma,3,806,Yes,Yes,HT529,HT529,Sakaean  ,35,136,3,1,S78,S78,Izakaya,Nihonshu Japanese Sake,SP258,SP258,3,211
+2500,3500,Karasuma,CT8,CT8,Karasuma,3,807,Yes,No,HT530,HT530,Sakaguratamanohikari  ,35,136,3,1,S104,S104,Izakaya,Mizutaki,SP258,SP258,3,24
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,808,Yes,Yes,HT543,HT543,Satsumagokamon  ,35,136,2,1,S31,S31,Izakaya,Sukiyaki,SP258,SP258,3,489
+4500,3700,Karasuma,CT8,CT8,Karasuma,3,809,Yes,No,HT552,HT552,Shikinoajisugiura  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,72
+3500,1500,Karasuma,CT8,CT8,Karasuma,3,810,Yes,Yes,HT578,HT578,Steak Frites Gaspard zinzin  ,35,136,3,1,S42,S42,Bistro,Steak,SP259,SP259,3,591
+1500,1250,Karasuma,CT8,CT8,Karasuma,53,811,Yes,Yes,HT579,HT579,Suiba  ,35,136,3,1,S16,S16,Stand Bar,Dining bar,SP217,SP217,53,849
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,812,Yes,No,HT614,HT614,Takayasuzekuu  ,35,136,3,1,S15,S15,Ramen,Chinese,SP216,SP216,3,1548
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,813,Yes,No,HT647,HT647,Toriasa  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,392
+3500,3500,Karasuma,CT8,CT8,Karasuma,2,814,Yes,Yes,HT650,HT650,Toriseetakoyakushiten  ,35,136,3,1,S91,S91,YakitoriGrilledChicken,Izakaya,SP232,SP232,3,21
+4500,1500,Karasuma,CT8,CT8,Karasuma,3,815,Yes,No,HT655,HT655,Trattoria La Pace  ,35,136,51,1,S45,S45,Italian,Pizza,SP183,SP183,51,29
+4500,1500,Karasuma,CT8,CT8,Karasuma,3,816,Yes,No,HT656,HT656,Trattoria La Voce  ,35,136,53,1,S32,S32,Italian,Pasta,SP183,SP183,5,49
+6500,3550,Karasuma,CT8,CT8,Karasuma,4,817,Yes,Yes,HT674,HT674,Wine Bar,35,136,3,1,S2,S2,Wine bar,Italian,SP237,SP237,4,613
+3500,3700,Karasuma,CT8,CT8,Karasuma,2,818,Yes,No,HT682,HT682,Yakinikuhorumonanju  ,35,136,3,1,S95,S95,Yakiniku BBQ Beef,Korean cuisine,SP219,SP219,2,411
+4500,1500,Karasuma,CT8,CT8,Karasuma,3,819,Yes,No,HT715,HT715,bisutorowaraku  ,35,136,3,1,S43,S43,Bistro,Bar,SP259,SP259,4,304
+5500,1500,Karasuma,CT8,CT8,Karasuma,3,820,Yes,No,HT742,HT742,guridorufo-suitsuraku  ,35,136,3,1,S42,S42,Teppanyaki,Steak,SP196,SP196,3,289
+3500,1500,Karasuma,CT8,CT8,Karasuma,3,821,Yes,No,HT760,HT760,kafeandodainingubambikarasuma  ,35,136,3,1,S14,S14,Italian,Cafe,SP183,SP183,3,1345
+1500,1500,Karasuma,CT8,CT8,Karasuma,3,822,Yes,No,HT761,HT761,kafeandopanke-kiguramu  ,35,136,3,1,S10,S10,Cafe,Pancake,SP190,SP190,3,365
+1500,1500,Karasuma,CT8,CT8,Karasuma,3,823,Yes,No,HT770,HT770,konana,35,136,2,1,S14,S14,Pasta,Cafe,SP212,SP212,2,1098
+3500,1250,Karasuma,CT8,CT8,Karasuma,51,824,Yes,No,HT774,HT774,kunseitojibi-ruwachi  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,51,11
+2500,3500,Karasuma,CT8,CT8,Karasuma,3,825,Yes,No,HT784,HT784,kyoutoayanokoujimangetsunoha2.76  ,35,136,4,1,S52,S52,Sweets,Japanese,SP234,SP234,4,220
+3500,2500,Karasuma,CT8,CT8,Karasuma,4,826,Yes,No,HT788,HT788,kyoutohyouto  ,35,136,58,1,S3,S3,Pork Shabu Shabu,Shabu Shabu Japanese Steamboat,SP223,SP223,4,9
+3500,3550,Karasuma,CT8,CT8,Karasuma,3,827,Yes,No,HT793,HT793,kyouyakiyomizuhonke  ,35,136,3,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,3,464
+3500,3700,Karasuma,CT8,CT8,Karasuma,3,828,Yes,No,HT805,HT805,nihonshubarujinsuke  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,96
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,829,Yes,No,HT809,HT809,nikubarudakara  ,35,136,3,1,S42,S42,Izakaya,Steak,SP258,SP258,3,488
+3500,3500,Karasuma,CT8,CT8,Karasuma,2,830,Yes,No,HT813,HT813,nikubarushouzudainingu  ,35,136,3,1,S47,S47,Bar,Yakiniku BBQ Beef,SP218,SP218,2,33
+2500,2500,Karasuma,CT8,CT8,Karasuma,2,831,Yes,No,HT821,HT821,nishikimachinoakarishoutengai  ,35,136,3,1,S43,S43,Izakaya,Bar,SP258,SP258,2,294
+3500,1500,Karasuma,CT8,CT8,Karasuma,3,832,Yes,No,HT83,HT83,Daniel's  ,35,136,5,1,S32,S32,Italian,Pasta,SP183,SP183,4,220
+2500,3500,Karasuma,CT8,CT8,Karasuma,3,833,Yes,No,HT831,HT831,pittsuxeriaba-rurenapori  ,35,136,52,1,S45,S45,Italian,Pizza,SP183,SP183,3,1821
+3500,3700,Karasuma,CT8,CT8,Karasuma,3,834,Yes,Yes,HT840,HT840,satsumachirandorikuroyakibeppinya  ,35,136,3,1,S18,S18,Izakaya,Fowl,SP258,SP258,3,317
+3500,1500,Karasuma,CT8,CT8,Karasuma,3,835,Yes,No,HT85,HT85,Danieruzusore  ,35,136,3,1,S45,S45,Italian,Pizza,SP183,SP183,4,379
+5500,1250,Karasuma,CT8,CT8,Karasuma,3,836,Yes,No,HT850,HT850,sushidainingudaihachi  ,35,136,3,1,S53,S53,Sushi,Creative cuisine,SP267,SP267,3,532
+2500,3700,Karasuma,CT8,CT8,Karasuma,3,837,Yes,No,HT856,HT856,teppandainingugionshou  ,35,136,2,1,S2,S2,Izakaya,Italian,SP258,SP258,3,199
+4500,3550,Karasuma,CT8,CT8,Karasuma,3,838,Yes,No,HT872,HT872,wainshokudouumiusagi  ,35,136,3,1,S55,S55,Italian,Wine bar,SP183,SP183,3,879
+4500,1500,Karasuma,CT8,CT8,Karasuma,3,839,Yes,Yes,HT877,HT877,yakinikutobi-ruichibakouji  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,3,117
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,840,Yes,No,HT92,HT92,Enyahanare  ,35,136,3,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,3,270
+3500,3500,Karasuma,CT8,CT8,Karasuma,3,841,Yes,No,HT93,HT93,Enyanishiki  ,35,136,4,1,S24,S24,Izakaya,Oden,SP258,SP258,3,3
+3500,1500,Karasuma,CT8,CT8,Karasuma,4,842,Yes,No,HT98,HT98,Feliz-Lana,35,136,3,1,S43,S43,Italian,Bar,SP183,SP183,4,548
+3500,1500,Kitayama,CT80,CT80,Kitayama,3,843,Yes,No,HT192,HT192,IN THE GREEN  ,35,136,54,1,S45,S45,Italian,Pizza,SP183,SP183,52,1109
+4500,2500,Kitayama,CT80,CT80,Kitayama,3,844,Yes,No,HT248,HT248,Kaiseitei  ,35,136,3,1,S2,S2,French,Italian,SP208,SP208,3,25
+6500,2500,Kitayama,CT80,CT80,Kitayama,3,845,Yes,No,HT301,HT301,Kitayamafuurin  ,35,136,3,1,S17,S17,Kaiseki Japanese,Seafood,SP243,SP243,3,659
+6500,1250,Kitayama,CT80,CT80,Kitayama,3,846,Yes,No,HT319,HT319,Kushiagetoshiko  ,35,136,3,1,S53,S53,Kushi-age Fried Skewer,Creative cuisine,SP207,SP207,3,220
+12500,4500,Kitayama,CT80,CT80,Kitayama,3,847,Yes,Yes,HT501,HT501,Risutoranteazekura  ,35,136,3,1,S33,S33,Italian,Restaurants,SP183,SP183,3,176
+2500,3550,Kutsukawa,CT81,CT81,Kutsukawa,2,848,Yes,No,HT649,HT649,Torimasa  ,35,136,3,1,S18,S18,Izakaya,Fowl,SP258,SP258,2,170
+3500,1250,Nagaoka Tenjin,CT82,CT82,Nagaoka Tenjin,3,849,Yes,Yes,HT59,HT59,Bunta  ,35,136,3,1,S19,S19,Izakaya,Chanko Sumo Wrestlers Hot Pot,SP258,SP258,3,474
+3500,3500,Yamanouchi,CT83,CT83,Yamanouchi,3,850,Yes,Yes,HT167,HT167,Hairaitoshiyokudou  ,35,136,3,1,S44,S44,Japanese,Western Cuisine,SP235,SP235,3,591
+1500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,851,Yes,Yes,HT11,HT11,Aiyoxtsu  ,35,136,3,1,S91,S91,Kushi-age Fried Skewer,Izakaya,SP207,SP207,3,591
+2500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,852,Yes,No,HT146,HT146,Gohanya  ,35,136,3,1,S16,S16,Izakaya,Dining bar,SP258,SP258,3,45
+4500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,853,Yes,No,HT178,HT178,Higashinotouinsou  ,35,136,3,1,S52,S52,Kappo Japanese,Japanese,SP262,SP262,3,433
+3500,3700,Karasuma Oike,CT9,CT9,Karasuma Oike,3,854,Yes,No,HT191,HT191,IL TOBANCHI  ,35,136,3,1,S2,S2,Bar,Italian,SP218,SP218,3,29
+5500,3700,Karasuma Oike,CT9,CT9,Karasuma Oike,4,855,Yes,No,HT203,HT203,Idutsuya  ,35,136,2,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,4,1109
+3500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,856,Yes,Yes,HT206,HT206,Ikiikiudon  ,35,136,3,1,S52,S52,Udon,Japanese,SP242,SP242,3,428
+3500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,857,Yes,No,HT22,HT22,Ampan  ,35,136,2,1,S47,S47,Korean cuisine,Yakiniku BBQ Beef,SP263,SP263,3,153
+2500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,858,Yes,No,HT222,HT222,Italian bar Lugol  ,35,136,3,1,S32,S32,Italian,Pasta,SP183,SP183,3,45
+3500,3700,Karasuma Oike,CT9,CT9,Karasuma Oike,3,859,Yes,No,HT229,HT229,Izakayaanji  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,58
+12500,4500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,860,Yes,No,HT249,HT249,Kaisekihyouki  ,35,136,3,1,S64,S64,Kappo Japanese,Kyoto Cuisine,SP262,SP262,3,58
+5500,3550,Karasuma Oike,CT9,CT9,Karasuma Oike,52,861,Yes,No,HT25,HT25,Apollo+  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,52,33
+4500,1250,Karasuma Oike,CT9,CT9,Karasuma Oike,3,862,Yes,No,HT252,HT252,Kaisendokorowatanabeya  ,35,136,3,1,S91,S91,Seafood,Izakaya,SP194,SP194,3,24
+3500,3700,Karasuma Oike,CT9,CT9,Karasuma Oike,3,863,Yes,No,HT273,HT273,Karasumarugenkiichiba  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,9
+2500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,2,864,Yes,No,HT280,HT280,Kazamidori  ,35,136,4,1,S54,S54,Izakaya,YakitoriGrilledChicken,SP258,SP258,2,677
+3500,1250,Karasuma Oike,CT9,CT9,Karasuma Oike,54,865,Yes,No,HT37,HT37,BEER PUB Takumiya  ,35,136,3,1,S2,S2,Dining bar,Italian,SP191,SP191,54,368
+35009,1250,Karasuma Oike,CT9,CT9,Karasuma Oike,3,866,Yes,No,HT400,HT400,Matsusakagyuuwattsu  ,35,136,3,1,S93,S93,Yakiniku BBQ Beef,Horumon BBQ Offel,SP219,SP219,4,29
+2500,3700,Karasuma Oike,CT9,CT9,Karasuma Oike,3,867,Yes,Yes,HT402,HT402,Mayonakashokudouchoujuugigarokkaku  ,35,136,3,1,S18,S18,Izakaya,Fowl,SP258,SP258,3,237
+3500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,868,Yes,No,HT414,HT414,Mogu piatti  ,35,136,3,1,S43,S43,Italian,Bar,SP183,SP183,3,25
+12500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,869,Yes,Yes,HT422,HT422,Mumon  ,35,136,3,1,S30,S30,Shabu Shabu Japanese Steamboat,FuguBlowfish,SP186,SP186,3,223
+35009,4500,Karasuma Oike,CT9,CT9,Karasuma Oike,4,870,Yes,No,HT447,HT447,ORTO  ,35,136,4,1,S28,S28,Innovative cuisine,Fusion cuisine,SP229,SP229,4,17
+5500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,871,Yes,No,HT472,HT472,Pierupureshiuzu  ,35,136,3,1,S44,S44,French,Western Cuisine,SP208,SP208,3,117
+4500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,4,872,Yes,No,HT503,HT503,Robatasushihotaru  ,35,136,4,1,S17,S17,Robatayaki,Seafood,SP204,SP204,3,192
+5500,1250,Karasuma Oike,CT9,CT9,Karasuma Oike,57,873,Yes,No,HT506,HT506,Rojimon  ,35,136,2,1,S64,S64,Izakaya,Kyoto Cuisine,SP258,SP258,57,58
+3500,3700,Karasuma Oike,CT9,CT9,Karasuma Oike,3,874,Yes,Yes,HT513,HT513,Ryouma  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,410
+5500,2500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,875,Yes,No,HT522,HT522,SOUDEN  ,35,136,3,1,S52,S52,Sushi,Japanese,SP267,SP267,3,456
+3500,3700,Karasuma Oike,CT9,CT9,Karasuma Oike,3,876,Yes,No,HT54,HT54,Bejotamuamua  ,35,136,3,1,S22,S22,Bar,Western ,SP218,SP218,3,532
+4500,1250,Karasuma Oike,CT9,CT9,Karasuma Oike,3,877,Yes,No,HT555,HT555,Shinshin  ,35,136,4,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,166
+5500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,878,Yes,No,HT570,HT570,Shuteimichiya  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,24
+3500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,54,879,Yes,Yes,HT58,HT58,Brochette  ,35,136,51,1,S29,S29,Western ,French,SP192,SP192,55,134
+2500,1250,Karasuma Oike,CT9,CT9,Karasuma Oike,3,880,Yes,Yes,HT627,HT627,Tempurabaruharuichi  ,35,136,3,1,S43,S43,Tempura,Bar,SP264,SP264,3,122
+1500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,881,Yes,No,HT642,HT642,Teuchisobaminagawa  ,35,136,3,1,S91,S91,Soba,Izakaya,SP202,SP202,3,379
+4500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,882,Yes,Yes,HT643,HT643,Thiemuanfonvietto  ,35,136,51,1,S71,S71,Dining bar,Asian and ethnic cuisine,SP191,SP191,3,259
+3500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,883,Yes,Yes,HT695,HT695,Yamadaruma  ,35,136,3,1,S17,S17,Izakaya,Seafood,SP258,SP258,3,20
+1500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,884,Yes,No,HT723,HT723,coLLabo  ,35,136,3,1,S72,S72,Cafe,Hamburger Steak,SP190,SP190,4,116
+3500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,885,Yes,Yes,HT726,HT726,danieruzuaruba  ,35,136,3,1,S16,S16,Italian,Dining bar,SP183,SP183,3,917
+3500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,886,Yes,No,HT750,HT750,il pozzo  ,35,136,3,1,S32,S32,Italian,Pasta,SP183,SP183,3,220
+5500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,4,887,Yes,No,HT792,HT792,kyouyakinikukikyou  ,35,136,3,1,S91,S91,Yakiniku BBQ Beef,Izakaya,SP219,SP219,4,170
+3500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,5,888,Yes,No,HT811,HT811,nikubaruginjirou  ,35,136,3,1,S2,S2,Bar,Italian,SP218,SP218,52,116
+35009,1250,Karasuma Oike,CT9,CT9,Karasuma Oike,58,889,Yes,No,HT820,HT820,nikuyaoushin  ,35,136,3,1,S64,S64,Yakiniku BBQ Beef,Kyoto Cuisine,SP219,SP219,58,5
+1500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,890,Yes,Yes,HT825,HT825,osakenobijutsukankyoutosanjoukarasumaretoropabu  ,35,136,3,1,S7,S7,Bar,Pub,SP218,SP218,3,805
+6500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,891,Yes,No,HT835,HT835,rino  ,35,136,4,1,S32,S32,Italian,Pasta,SP183,SP183,4,160
+12500,1500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,892,Yes,No,HT847,HT847,sumibisute-kisakaikyoutosanjou  ,35,136,53,1,S65,S65,Steak,Kaiseki Japanese,SP221,SP221,5,6
+3500,3500,Karasuma Oike,CT9,CT9,Karasuma Oike,3,893,Yes,No,HT9,HT9,Aguuru  ,35,136,3,1,S91,S91,Cuisine,Izakaya,SP238,SP238,5,192
